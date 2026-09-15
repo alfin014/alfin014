@@ -37,3 +37,84 @@ help      : Penetration Testing & Bug Bounty
 ask_me    : Linux, Termux, Python, JavaScript, Cyber Security
 fun_fact  : I explore the dark side of the web — ethically.
 motto     : "Code with passion, hack with ethics."
+
+---
+
+🛠️ Languages & Tools
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,python,php,linux,bash,git,github,vscode,figma,nodejs,mysql,termux&theme=dark" />
+
+</div>
+
+---
+
+📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=[USERNAME]&show_icons=true&theme=tokyonight&border_color=00ffc8&title_color=00ffc8&icon_color=7b2fff&include_all_commits=true&count_private=true" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[USERNAME]&layout=compact&theme=tokyonight&border_color=00ffc8&title_color=00ffc8&langs_count=8" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=[USERNAME]&theme=tokyonight&border=00ffc8&stroke=00ffc8&ring=7b2fff&fire=00ffc8&currStreakLabel=00ffc8" />
+
+</div>
+
+---
+
+🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=[USERNAME]&theme=matrix&no-frame=true&row=1&column=7&margin-w=10" />
+
+</div>
+
+---
+
+📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=[USERNAME]&bg_color=0f0f1a&color=00ffc8&line=7b2fff&point=ffffff&area=true&hide_border=true" />
+
+</div>
+
+---
+
+💬 Random Dev Quote
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+
+</div>
+
+---
+
+🌐 Connect with Me
+
+<div align="center">
+
+<a href="[LINK_PORTFOLIO]"><img src="https://img.shields.io/badge/🌐_Portfolio-00ffc8?style=for-the-badge&logoColor=black" /></a>
+<a href="[LINK_INSTAGRAM]"><img src="https://img.shields.io/badge/📷_Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+<a href="mailto:[EMAIL]"><img src="https://img.shields.io/badge/📧_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7b2fff,50:00ffc8,100:0f0f1a&height=150&section=footer&text=Stay%20Curious,%20Stay%20Ethical&fontSize=20&fontColor=ffffff&animation=fadeIn" />
+
+</div>
+```
+
+---
