@@ -69,26 +69,6 @@ motto     : "Code with passion, hack with ethics."
 
 ---
 
-🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=alfin014&theme=matrix&no-frame=true&row=1&column=7&margin-w=10" />
-
-</div>
-
----
-
-📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=alfin014&bg_color=0f0f1a&color=00ffc8&line=7b2fff&point=ffffff&area=true&hide_border=true" />
-
-</div>
-
----
-
 💬 Random Dev Quote
 
 <div align="center">
@@ -104,7 +84,7 @@ motto     : "Code with passion, hack with ethics."
 <div align="center">
 
 <a href="https://portofolio-diriku.netlify.app"><img src="https://img.shields.io/badge/🌐_Portfolio-00ffc8?style=for-the-badge&logoColor=black" /></a>
-<a href="https://instagram.com/[IG_LU]"><img src="https://img.shields.io/badge/📷_Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+<a href="https://instagram.com/USERNAME_IG_LU"><img src="https://img.shields.io/badge/📷_Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 <a href="mailto:alfinzafitra@gmail.com"><img src="https://img.shields.io/badge/📧_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 </div>
@@ -117,3 +97,5 @@ motto     : "Code with passion, hack with ethics."
 
 </div>
 ```
+
+---
