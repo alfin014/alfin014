@@ -1,3 +1,4 @@
+```markdown
 <!-- ============================================= -->
 <!--     V1N55X404 — README CYBER EDITION         -->
 <!-- ============================================= -->
@@ -38,6 +39,7 @@ ask_me    : Linux, Termux, Python, JavaScript, Cyber Security
 fun_fact  : I explore the dark side of the web — ethically.
 motto     : "Code with passion, hack with ethics."
 ```
+
 ---
 
 🛠️ Languages & Tools
@@ -103,8 +105,8 @@ motto     : "Code with passion, hack with ethics."
 <div align="center">
 
 <a href="https://portofolio-diriku.netlify.app"><img src="https://img.shields.io/badge/🌐_Portfolio-00ffc8?style=for-the-badge&logoColor=black" /></a>
-<a href="alfin014"><img src="https://img.shields.io/badge/📷_Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-<a href="mailto:alfin014"><img src="https://img.shields.io/badge/📧_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://instagram.com/[IG_LU]"><img src="https://img.shields.io/badge/📷_Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+<a href="mailto:alfinzafitra@gmail.com"><img src="https://img.shields.io/badge/📧_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 </div>
 
@@ -116,5 +118,3 @@ motto     : "Code with passion, hack with ethics."
 
 </div>
 ```
-
----
