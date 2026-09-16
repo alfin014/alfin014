@@ -95,7 +95,7 @@ V1N55X404
 <img height="180em" src="https://files.catbox.moe/64hpof.jpg
 username=alfin014&show_icons=true&theme=tokyonight&border_color=00ffc8&title_color=00ffc8&icon_color=7b2fff&include_all_commits=true&count_private=true&bg_color=0d1117" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alfin014&layout=compact&theme=tokyonight&border_color=00ffc8&title_color=00ffc8&langs_count=8&bg_color=0d1117" />
+<img height="180em" src="https://files.catbox.moe/64hpof.jpg username=alfin014&layout=compact&theme=tokyonight&border_color=00ffc8&title_color=00ffc8&langs_count=8&bg_color=0d1117" />
 
 </div>
 
@@ -105,7 +105,7 @@ username=alfin014&show_icons=true&theme=tokyonight&border_color=00ffc8&title_col
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://files.catbox.moe/64hpof.jpg" width="100%">
 
 📈 Contribution Activity
 
@@ -115,7 +115,7 @@ username=alfin014&show_icons=true&theme=tokyonight&border_color=00ffc8&title_col
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://files.catbox.moe/64hpof.jpg" width="100%">
 
 💬 Random Dev Quote
 
