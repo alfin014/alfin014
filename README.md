@@ -22,7 +22,7 @@
   <a href="https://github.com/alfin014"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="mailto:alfinzafitra@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://portofolio-diriku.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-00ffc8?style=for-the-badge&logo=firefox&logoColor=black" /></a>
-  <a href="https://instagram.com/[IG_LU]"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://instagram.com/alfi.nzs"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
 
 </div>
