@@ -101,7 +101,7 @@ username=alfin014&show_icons=true&theme=tokyonight&border_color=00ffc8&title_col
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=alfin014&theme=tokyonight&border=00ffc8&stroke=00ffc8&ring=7b2fff&fire=00ffc8&currStreakLabel=00ffc8&background=0d1117" />
+<img src="https://files.catbox.moe/64hpof.jpg user=alfin014&theme=tokyonight&border=00ffc8&stroke=00ffc8&ring=7b2fff&fire=00ffc8&currStreakLabel=00ffc8&background=0d1117" />
 
 </div>
 
@@ -111,7 +111,7 @@ username=alfin014&show_icons=true&theme=tokyonight&border_color=00ffc8&title_col
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=alfin014&bg_color=0d1117&color=00ffc8&line=7b2fff&point=ffffff&area=true&hide_border=true&custom_title=V1N55X404's%20Contribution%20Graph" />
+<img src="https://files.catbox.moe/64hpof.jpg username=alfin014&bg_color=0d1117&color=00ffc8&line=7b2fff&point=ffffff&area=true&hide_border=true&custom_title=V1N55X404's%20Contribution%20Graph" />
 
 </div>
 
