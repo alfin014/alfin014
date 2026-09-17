@@ -1,30 +1,28 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:000000,25:050B0A,55:00FFC8,78:7B2FFF,100:000000&text=V1N55X404&fontSize=82&fontColor=FFFFFF&fontAlignY=40&desc=CYBER%20SECURITY%20%2F%2F%20WEB%20DEVELOPMENT%20%2F%2F%20LINUX&descAlignY=65&descSize=16&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:000000,20:020807,45:071412,70:00FFC8,86:7B2FFF,100:000000&text=V1N55X404&fontSize=88&fontColor=FFFFFF&fontAlignY=40&desc=//%20DIGITAL%20IDENTITY%20%2F%2F%20CYBER%20SECURITY%20%2F%2F%20DEVELOPMENT&descAlignY=64&descSize=14&animation=fadeIn"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2200&pause=700&color=00FFC8&center=true&vCenter=true&width=850&lines=%5B+BOOT_SEQUENCE_INITIATED+%5D;%3E+Loading+V1N55X404...;%3E+Identity+verified.;%3E+Security+protocols+enabled.;%3E+Ethical+mode%3A+ACTIVE;%3E+System+ready." />
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&duration=2000&pause=600&color=00FFC8&center=true&vCenter=true&width=900&lines=%5B+INITIALIZING+CORE...+%5D;%5B+IDENTITY+VERIFIED+%5D;%5B+SECURITY+PROTOCOL+ONLINE+%5D;%5B+ETHICAL+MODE%3A+ACTIVE+%5D;%3E+Welcome+to+the+digital+space+of+V1N55X404." />
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=alfin014&label=SYSTEM%20VISITORS&color=00ffc8&style=for-the-badge"/>
-&nbsp;
-<img src="https://img.shields.io/github/followers/alfin014?label=NETWORK&style=for-the-badge&color=7b2fff"/>
-&nbsp;
-<img src="https://img.shields.io/github/stars/alfin014?label=REPOSITORY%20STARS&style=for-the-badge&color=00ffc8"/>
+<img src="https://komarev.com/ghpvc/?username=alfin014&label=VISITORS&color=00FFC8&style=for-the-badge"/>
 
 <br><br>
 
 <a href="https://github.com/alfin014">
-<img src="https://img.shields.io/badge/%2F%2F_GITHUB-050505?style=for-the-badge&logo=github&logoColor=00FFC8"/>
+<img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=00FFC8"/>
 </a>
 <a href="https://portofolio-diriku.netlify.app/">
-<img src="https://img.shields.io/badge/%2F%2F_PORTFOLIO-00FFC8?style=for-the-badge&logo=firefox&logoColor=050505"/>
+<img src="https://img.shields.io/badge/PORTFOLIO-00FFC8?style=for-the-badge&logo=firefox&logoColor=000000"/>
 </a>
 <a href="https://instagram.com/alfi.nzs">
-<img src="https://img.shields.io/badge/%2F%2F_INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=FFFFFF"/>
 </a>
 <a href="mailto:alfinzafitra@gmail.com">
-<img src="https://img.shields.io/badge/%2F%2F_EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/CONTACT-D14836?style=for-the-badge&logo=gmail&logoColor=FFFFFF"/>
 </a>
 
 </div>
@@ -33,107 +31,102 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-# `◈ 00 // ACCESS TERMINAL`
+<br>
 
-```text
-╭──────────────────────────────────────────────────────────────╮
-│                                                              │
-│   ██████╗ ██╗   ██╗ ██╗ ███╗   ██╗ ███████╗ ██╗  ██╗      │
-│   ██╔══██╗██║   ██║███║ ████╗  ██║ ██╔════╝ ╚██╗██╔╝      │
-│   ██║  ██║██║   ██║╚██║ ██╔██╗ ██║ ███████╗  ╚███╔╝       │
-│   ██║  ██║╚██╗ ██╔╝ ██║ ██║╚██╗██║ ╚════██║  ██╔██╗       │
-│   ██████╔╝ ╚████╔╝  ██║ ██║ ╚████║ ███████║ ██╔╝ ██╗      │
-│   ╚═════╝   ╚═══╝   ╚═╝ ╚═╝  ╚═══╝ ╚══════╝ ╚═╝  ╚═╝      │
-│                                                              │
-│   USER       : V1N55X404                                     │
-│   CLASS      : CYBER SECURITY ENTHUSIAST                    │
-│   SECONDARY  : FRONTEND DEVELOPER                            │
-│   ORIGIN     : INDONESIA 🇮🇩                                 │
-│                                                              │
-│   STATUS     : ● ONLINE                                     │
-│   SECURITY   : ● ENABLED                                    │
-│   ETHICS     : ● ACTIVE                                     │
-│                                                              │
-╰──────────────────────────────────────────────────────────────╯
+# `╔══ 01 // SYSTEM IDENTITY`
+
+<div align="center">
+
+```text id="d2x4f9"
+╭──────────────────────────────────────────────────────────────────────╮
+│                                                                      │
+│   ██████╗ ██╗   ██╗ ██╗ ███╗   ██╗ ███████╗ ██╗  ██╗               │
+│   ██╔══██╗██║   ██║███║ ████╗  ██║ ██╔════╝ ╚██╗██╔╝               │
+│   ██║  ██║██║   ██║╚██║ ██╔██╗ ██║ ███████╗  ╚███╔╝                │
+│   ██║  ██║╚██╗ ██╔╝ ██║ ██║╚██╗██║ ╚════██║  ██╔██╗               │
+│   ██████╔╝ ╚████╔╝  ██║ ██║ ╚████║ ███████║ ██╔╝ ██╗               │
+│   ╚═════╝   ╚═══╝   ╚═╝ ╚═╝  ╚═══╝ ╚══════╝ ╚═╝  ╚═╝               │
+│                                                                      │
+│   ┌──────────────────────────────────────────────────────────────┐   │
+│   │                                                              │   │
+│   │  HANDLE       V1N55X404                                      │   │
+│   │  LOCATION     INDONESIA 🇮🇩                                  │   │
+│   │  ROLE         CYBER SECURITY ENTHUSIAST                      │   │
+│   │               FRONTEND DEVELOPER                             │   │
+│   │                                                              │   │
+│   │  STATUS       ● ONLINE                                       │   │
+│   │  MODE         ETHICAL                                        │   │
+│   │  ACCESS       DEVELOPMENT / SECURITY                         │   │
+│   │                                                              │   │
+│   └──────────────────────────────────────────────────────────────┘   │
+│                                                                      │
+╰──────────────────────────────────────────────────────────────────────╯
 ```
+
+</div>
 
 <br>
 
-# `◈ 01 // PROFILE`
+# `╔══ 02 // ABOUT THE OPERATOR`
 
-<table>
-<tr>
-<td width="55%">
+I'm **V1N55X404**, a Cyber Security enthusiast and Frontend Developer from Indonesia.
 
-### `> about`
+I enjoy exploring the intersection between **software development and security**, from building web applications to understanding how systems can be tested, analyzed, and secured.
 
-I'm **V1N55X404**, a Cyber Security enthusiast and Frontend Developer focused on understanding how technology works from both the **development** and **security** perspective.
+My main areas of interest:
 
-I spend my time exploring:
-
-`Web Security`
-`Ethical Hacking`
-`Linux & Termux`
-`Networking`
-`OSINT`
-`Python Security Tools`
-`Frontend Development`
-
-My goal is simple:
-
-> **Understand systems. Build things. Find weaknesses responsibly. Make them safer.**
-
-</td>
-
-<td width="45%">
-
-```text
-┌─[ PROFILE ]────────────────┐
-│                            │
-│  ◉ STATUS    ONLINE        │
-│  ◉ MODE      ETHICAL       │
-│  ◉ SYSTEM    LINUX         │
-│  ◉ SHELL     TERMINAL      │
-│                            │
-│  FOCUS                     │
-│  ├─ Web Security           │
-│  ├─ Pentesting              │
-│  ├─ Networking              │
-│  ├─ OSINT                   │
-│  └─ Development             │
-│                            │
-└────────────────────────────┘
+```text id="l5u9e8"
+┌──────────────────────────────────────────────────────────┐
+│                                                          │
+│  🔐  CYBER SECURITY       Web Security / Pentesting      │
+│  🌐  NETWORKING           TCP/IP / HTTP / Infrastructure │
+│  🐧  LINUX                Kali / Termux / CLI            │
+│  🕵️  OSINT                Recon / Information Gathering  │
+│  💻  DEVELOPMENT          HTML / CSS / JS / PHP / Python │
+│  🧪  SECURITY RESEARCH     Learning / Testing / Analysis │
+│                                                          │
+└──────────────────────────────────────────────────────────┘
 ```
 
-</td>
-</tr>
-</table>
+> **I don't just want to use technology. I want to understand what happens underneath it.**
 
 <br>
 
-# `◈ 02 // SECURITY MATRIX`
+# `╔══ 03 // SECURITY PROFILE`
 
 <div align="center">
 
 <table>
 <tr>
-<td align="center" width="25%">
+<td align="center">
 
-### 🛡️
+### `WEB`
 
-**WEB SECURITY**
+**Web Security**
 
-OWASP
 HTTP
-Vulnerability Research
+OWASP
+Vulnerability Analysis
 
 </td>
 
-<td align="center" width="25%">
+<td align="center">
 
-### 🐧
+### `NETWORK`
 
-**LINUX**
+**Network Security**
+
+TCP/IP
+Ports
+Traffic Analysis
+
+</td>
+
+<td align="center">
+
+### `LINUX`
+
+**Linux Security**
 
 Kali Linux
 Termux
@@ -141,23 +134,11 @@ CLI
 
 </td>
 
-<td align="center" width="25%">
+<td align="center">
 
-### 🌐
+### `RECON`
 
-**NETWORKING**
-
-TCP/IP
-HTTP
-Network Security
-
-</td>
-
-<td align="center" width="25%">
-
-### 🕵️
-
-**RECON**
+**Reconnaissance**
 
 OSINT
 Enumeration
@@ -171,27 +152,23 @@ Information Gathering
 
 <br>
 
-# `◈ 03 // TECHNOLOGY LOADOUT`
-
-### `LANGUAGES`
+# `╔══ 04 // TECHNOLOGY MATRIX`
 
 <div align="center">
+
+### `PROGRAMMING`
 
 <img src="https://skillicons.dev/icons?i=html,css,js,python,php,bash,mysql&perline=7"/>
 
-</div>
+<br><br>
 
-### `ENVIRONMENT`
-
-<div align="center">
+### `TOOLS / ENVIRONMENT`
 
 <img src="https://skillicons.dev/icons?i=linux,git,github,vscode,nodejs,figma,termux&perline=7"/>
 
-</div>
+<br><br>
 
-### `SECURITY TOOLKIT`
-
-<div align="center">
+### `SECURITY ARSENAL`
 
 <img src="https://img.shields.io/badge/KALI_LINUX-050505?style=for-the-badge&logo=kalilinux&logoColor=557C94"/>
 <img src="https://img.shields.io/badge/TERMUX-050505?style=for-the-badge&logo=termux&logoColor=00FFC8"/>
@@ -203,26 +180,33 @@ Information Gathering
 
 <br>
 
-# `◈ 04 // ACTIVE OPERATIONS`
+# `╔══ 05 // LIVE OPERATIONS`
 
-```text
-┌─────────────────────────────────────────────────────────────┐
-│                                                             │
-│  OPERATION STATUS                                           │
-│                                                             │
-│  [01] WEB SECURITY              ████████████░░   ACTIVE     │
-│  [02] ETHICAL HACKING           ██████████░░░░   ACTIVE     │
-│  [03] LINUX / TERMUX            ███████████░░░   ACTIVE     │
-│  [04] PYTHON SECURITY            ████████░░░░░░   LEARNING   │
-│  [05] FRONTEND DEVELOPMENT       ████████████░░   ACTIVE     │
-│  [06] NETWORKING                 ████████░░░░░░   LEARNING   │
-│                                                             │
-└─────────────────────────────────────────────────────────────┘
+<div align="center">
+
+```text id="h4m3ca"
+             V1N55X404 // LEARNING CORE
+
+        ┌────────────────────────────────────┐
+        │                                    │
+        │  WEB SECURITY       █████████░░  80% │
+        │  LINUX / TERMUX     █████████░░  82% │
+        │  FRONTEND DEV       ██████████░  88% │
+        │  PYTHON             ███████░░░░  68% │
+        │  NETWORKING         ███████░░░░  70% │
+        │  OSINT              ██████░░░░░  60% │
+        │                                    │
+        └────────────────────────────────────┘
+
+                 STATUS : LEARNING
+                 MODE   : CONSTANT
 ```
+
+</div>
 
 <br>
 
-# `◈ 05 // PROJECT ARCHIVE`
+# `╔══ 06 // PROJECT ARCHIVE`
 
 <div align="center">
 
@@ -240,13 +224,13 @@ Information Gathering
 
 <div align="center">
 
-`BUILD`   `TEST`   `SECURE`   `REPEAT`
+`WEB APPS`   `SECURITY TOOLS`   `LEARNING PROJECTS`   `OPEN SOURCE`
 
 </div>
 
 <br>
 
-# `◈ 06 // GITHUB TELEMETRY`
+# `╔══ 07 // GITHUB CORE`
 
 <div align="center">
 
@@ -266,53 +250,53 @@ Information Gathering
 
 <br>
 
-# `◈ 07 // ACTIVITY MONITOR`
+# `╔══ 08 // ACTIVITY MONITOR`
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=alfin014&bg_color=050B0A&color=00FFC8&line=7B2FFF&point=FFFFFF&area=true&hide_border=true&custom_title=V1N55X404%20ACTIVITY%20MONITOR"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=alfin014&bg_color=050B0A&color=00FFC8&line=7B2FFF&point=FFFFFF&area=true&hide_border=true&custom_title=V1N55X404%20%2F%2F%20ACTIVITY%20MONITOR"/>
 
 </div>
 
 <br>
 
-# `◈ 08 // CONTRIBUTION MATRIX`
+# `╔══ 09 // CONTRIBUTION MATRIX`
 
 <div align="center">
 
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
 <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-<img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" alt="Contribution Matrix"/>
+<img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
 </picture>
 
 </div>
 
 <br>
 
-# `◈ 09 // TERMINAL SESSION`
+# `╔══ 10 // TERMINAL ACCESS`
 
 <div align="center">
 
-```text
-┌──(V1N55X404㉿Abys)-[~/github]
-└─$ ./boot.sh
+```text id="j5p2ra"
+┌──(V1N55X404㉿Abys)-[~/system]
+└─$ ./status
 
-[ OK ] Loading identity...
-[ OK ] Loading security modules...
-[ OK ] Loading development environment...
-[ OK ] Checking ethical boundaries...
-[ OK ] Establishing connection...
-
-╭──────────────────────────────────────╮
-│                                      │
-│        V1N55X404 IS ONLINE           │
-│                                      │
-│        SECURITY  : ENABLED           │
-│        ETHICS    : ENABLED           │
-│        CURIOSITY : UNLIMITED         │
-│                                      │
-╰──────────────────────────────────────╯
+╭─────────────────────────────────────────────╮
+│                                             │
+│   SYSTEM STATUS                             │
+│                                             │
+│   IDENTITY       [ VERIFIED ]               │
+│   NETWORK        [ CONNECTED ]              │
+│   LINUX          [ READY ]                  │
+│   SECURITY       [ ENABLED ]               │
+│   DEVELOPMENT    [ ONLINE ]                │
+│   ETHICS         [ ENFORCED ]               │
+│                                             │
+│   THREAT LEVEL   [ LEARNING ]               │
+│   CURIOSITY      [ 100% ]                   │
+│                                             │
+╰─────────────────────────────────────────────╯
 
 └─$ echo "Learn. Build. Secure."
 
@@ -323,7 +307,7 @@ Learn. Build. Secure.
 
 <br>
 
-# `◈ 10 // TRANSMISSION`
+# `╔══ 11 // RANDOM TRANSMISSION`
 
 <div align="center">
 
@@ -333,7 +317,7 @@ Learn. Build. Secure.
 
 <br>
 
-# `◈ 11 // NETWORK`
+# `╔══ 12 // ESTABLISH CONNECTION`
 
 <div align="center">
 
@@ -363,20 +347,30 @@ Learn. Build. Secure.
 
 <div align="center">
 
-```text
-╔════════════════════════════════════════════════════════════╗
-║                                                            ║
-║                    V 1 N 5 5 X 4 0 4                       ║
-║                                                            ║
-║              CURIOUS BY NATURE.                            ║
-║              ETHICAL BY CHOICE.                            ║
-║              RELENTLESS IN LEARNING.                       ║
-║                                                            ║
-╚════════════════════════════════════════════════════════════╝
+```text id="0e9u4q"
+╔══════════════════════════════════════════════════════════════╗
+║                                                              ║
+║                       V1N55X404                              ║
+║                                                              ║
+║              ── DIGITAL IDENTITY ONLINE ──                  ║
+║                                                              ║
+║          CURIOUS BY NATURE                                   ║
+║          ETHICAL BY CHOICE                                   ║
+║          CONSTANTLY LEARNING                                 ║
+║                                                              ║
+║                 [ CONNECTION CLOSED ]                       ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=190&section=footer&color=0:000000,30:7B2FFF,60:00FFC8,100:000000&text=STAY%20CURIOUS%20%E2%80%A2%20STAY%20ETHICAL&fontSize=23&fontColor=FFFFFF&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=210&section=footer&color=0:000000,25:7B2FFF,55:00FFC8,80:071412,100:000000&text=V1N55X404&fontSize=30&fontColor=FFFFFF&animation=fadeIn"/>
 
-<sub>© 2026 V1N55X404 • Built with code, curiosity & caffeine.</sub>
+<sub>
+
+`// LEARN • BUILD • SECURE • REPEAT //`
+
+© 2026 **V1N55X404**
+
+</sub>
 
 </div>
