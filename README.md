@@ -49,7 +49,7 @@
 │   ┌────────────────────────────────────────────────────┐   │
 │   │ STATUS       ● ONLINE                              │   │
 │   │ SYSTEM       Linux / Termux                        │   │
-│   │ LOCATION     Indonesia 🇮🇩                          │    │
+│   │ LOCATION     Indonesia 🇮🇩                          │   │
 │   │ FOCUS        Web Security                          │   │
 │   │ INTERESTS    Pentesting • OSINT • Networking       │   │
 │   │ BUILDING     Security Tools • Web Applications     │   │
