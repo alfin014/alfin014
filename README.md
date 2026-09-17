@@ -49,7 +49,7 @@
 │   ┌────────────────────────────────────────────────────┐   │
 │   │ STATUS       ● ONLINE                              │   │
 │   │ SYSTEM       Linux / Termux                        │   │
-│   │ LOCATION     Indonesia 🇮🇩                         │   │
+│   │ LOCATION     Indonesia 🇮🇩                          │    │
 │   │ FOCUS        Web Security                          │   │
 │   │ INTERESTS    Pentesting • OSINT • Networking       │   │
 │   │ BUILDING     Security Tools • Web Applications     │   │
@@ -89,11 +89,11 @@ MINDSET
 | AREA                   | FOCUS                            |
 | :--------------------- | :------------------------------- |
 | 🔐 Web Security        | OWASP • Vulnerability Research   |
-| 🕵️ OSINT              | Information Gathering            |
+| 🕵️ OSINT               | Information Gathering            |
 | 🌐 Networking          | TCP/IP • HTTP • Network Security |
 | 🐧 Linux               | Kali Linux • Termux • CLI        |
 | 🧪 Pentesting          | Recon • Testing • Analysis       |
-| 🛡️ Defensive Security | Hardening • Secure Development   |
+| 🛡️ Defensive Security  | Hardening • Secure Development   |
 
 </div>
 
@@ -137,11 +137,11 @@ MINDSET
 ┌─────────────────────────────────────────────────────────────┐
 │                                                             │
 │  [01]  Web Security & Vulnerability Research       ███████░ │
-│  [02]  Ethical Hacking                              ██████░░ │
-│  [03]  Linux & Termux                               ███████░ │
-│  [04]  Python Security Tools                        █████░░░ │
-│  [05]  Frontend Development                         ███████░ │
-│  [06]  Networking & Infrastructure                  █████░░░ │
+│  [02]  Ethical Hacking                             ██████░░ │
+│  [03]  Linux & Termux                              ███████░ │
+│  [04]  Python Security Tools                       █████░░░ │
+│  [05]  Frontend Development                        ███████░ │
+│  [06]  Networking & Infrastructure                 █████░░░ │
 │                                                             │
 └─────────────────────────────────────────────────────────────┘
 ```
