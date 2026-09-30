@@ -1,31 +1,35 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=520&color=0:000000,12:010202,28:02100D,44:06362C,58:00FFC8,70:00A98D,82:3820FF,92:0A0012,100:000000&text=V1N55X404&fontSize=130&fontColor=FFFFFF&fontAlignY=36&desc=CYBER%20SECURITY%20%2F%2F%20SYSTEMS%20%2F%2F%20DEVELOPMENT&descAlignY=59&descSize=17&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=520&color=0:000000,14:010303,28:03100D,42:06251F,55:00FFC8,67:007F70,78:321A7A,89:09000F,100:000000&text=V1N55X404&fontSize=132&fontColor=FFFFFF&fontAlignY=35&desc=BLACKBOX%20%2F%2F%20DIGITAL%20IDENTITY&descAlignY=58&descSize=17&animation=fadeIn"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=16&duration=900&pause=250&color=00FFC8&center=true&vCenter=true&width=1000&lines=%3E+INITIALIZING+APEX-01...;%3E+LOADING+IDENTITY...+V1N55X404;%3E+SECURITY+CORE+%5B+ONLINE+%5D;%3E+NETWORK+CORE+%5B+ONLINE+%5D;%3E+DEVELOPMENT+CORE+%5B+ONLINE+%5D;%3E+ETHICAL+PROTOCOL+%5B+ACTIVE+%5D;%3E+SYSTEM+READY._"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=15&duration=750&pause=180&color=00FFC8&center=true&vCenter=true&width=1050&lines=%5B+BOOT_SEQUENCE+%5D+BLACKBOX-404;%5B+IDENTITY+%5D+V1N55X404;%5B+SECURITY+CORE+%5D+ONLINE;%5B+NETWORK+CORE+%5D+ONLINE;%5B+DEVELOPMENT+CORE+%5D+ONLINE;%5B+RESEARCH+ENGINE+%5D+RUNNING;%5B+ETHICAL+PROTOCOL+%5D+ENABLED;%5B+SYSTEM+%5D+READY."/>
 
 <br><br>
 
-<img src="https://img.shields.io/badge/STATUS-ONLINE-00FFC8?style=for-the-badge&labelColor=050505"/>
-<img src="https://img.shields.io/badge/MODE-ETHICAL-7B2FFF?style=for-the-badge&labelColor=050505"/>
-<img src="https://img.shields.io/badge/ORIGIN-INDONESIA-00FFC8?style=for-the-badge&labelColor=050505"/>
+<img src="https://img.shields.io/badge/BLACKBOX-ONLINE-00FFC8?style=for-the-badge&labelColor=030303"/>
+<img src="https://img.shields.io/badge/ETHICAL-MODE-7B2FFF?style=for-the-badge&labelColor=030303"/>
+<img src="https://img.shields.io/badge/ORIGIN-INDONESIA-FFFFFF?style=for-the-badge&labelColor=030303"/>
 
 <br><br>
 
 <a href="https://github.com/alfin014">
-<img src="https://img.shields.io/badge/GITHUB-050505?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/GITHUB-030303?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
 </a>
 <a href="https://portofolio-diriku.netlify.app/">
-<img src="https://img.shields.io/badge/PORTFOLIO-050505?style=for-the-badge&logo=firefox&logoColor=00FFC8"/>
+<img src="https://img.shields.io/badge/PORTFOLIO-030303?style=for-the-badge&logo=firefox&logoColor=00FFC8"/>
 </a>
 <a href="https://instagram.com/alfi.nzs">
-<img src="https://img.shields.io/badge/INSTAGRAM-050505?style=for-the-badge&logo=instagram&logoColor=E1306C"/>
+<img src="https://img.shields.io/badge/INSTAGRAM-030303?style=for-the-badge&logo=instagram&logoColor=E1306C"/>
 </a>
 <a href="mailto:alfinzafitra@gmail.com">
-<img src="https://img.shields.io/badge/CONTACT-050505?style=for-the-badge&logo=gmail&logoColor=00FFC8"/>
+<img src="https://img.shields.io/badge/EMAIL-030303?style=for-the-badge&logo=gmail&logoColor=00FFC8"/>
 </a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=alfin014&label=BLACKBOX%20SIGNALS&color=00FFC8&style=for-the-badge"/>
 
 </div>
 
@@ -35,13 +39,15 @@
 
 <div align="center">
 
-# `01 // SIGNAL DETECTED`
-
-<br>
-
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=00FFC8"/>
 
 <br><br>
+
+# `BLACKBOX // 01`
+
+### **IDENTITY SIGNAL**
+
+<br>
 
 ```text
 ╔══════════════════════════════════════════════════════════════╗
@@ -50,48 +56,49 @@
 ║                                                              ║
 ║                    DIGITAL ARCHITECT                          ║
 ║                                                              ║
-║      SECURITY       SYSTEMS       NETWORK       SOFTWARE     ║
+║       SECURITY  ×  SYSTEMS  ×  NETWORKS  ×  CODE             ║
 ║                                                              ║
-║                  ─────────────────────                       ║
+║                 ─────────────────────                        ║
 ║                                                              ║
-║                 CURIOUS BY DEFAULT                           ║
-║                 ETHICAL BY DESIGN                            ║
-║                 ALWAYS EVOLVING                              ║
+║              CURIOUS BY DEFAULT                              ║
+║              ETHICAL BY DESIGN                               ║
+║              ALWAYS EVOLVING                                 ║
+║                                                              ║
+║                    ● NODE ONLINE                             ║
 ║                                                              ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
 <br>
 
-### `I BUILD TO UNDERSTAND.`
-
-### `I TEST TO LEARN.`
-
-### `I SECURE WHAT I UNDERSTAND.`
+### `BUILDING. BREAKING. UNDERSTANDING. SECURING.`
 
 </div>
 
 ---
 
-# `02 // OPERATOR PROFILE`
+# `BLACKBOX // 02`
+
+## `OPERATOR DOSSIER`
 
 <table>
 <tr>
+
 <td width="58%" valign="top">
 
-## **V1N55X404**
+### **V1N55X404**
 
-I'm a **Cyber Security enthusiast** and **Frontend Developer** from Indonesia.
+Cyber Security enthusiast and Frontend Developer from Indonesia.
 
-My interests live at the intersection of:
+My interests sit between:
 
-`SECURITY` × `SYSTEMS` × `NETWORKS` × `CODE`
+**security × software × systems × networking**
 
-I enjoy building things, exploring how systems behave, learning security concepts, working with Linux environments, and turning technical curiosity into practical projects.
+I enjoy exploring technology beneath the surface, building applications, experimenting with systems, working with Linux environments, and continuously expanding my technical knowledge.
 
-I'm still learning.
+I'm not here to claim I know everything.
 
-That's the point.
+I'm here to understand more.
 
 </td>
 
@@ -100,13 +107,13 @@ That's the point.
 ```text
 ╭──────────────────────────────╮
 │                              │
-│       OPERATOR PROFILE       │
+│     BLACKBOX / OPERATOR      │
 │                              │
 │  HANDLE                      │
 │  V1N55X404                   │
 │                              │
 │  ORIGIN                      │
-│  INDONESIA 🇮🇩               │
+│  INDONESIA                   │
 │                              │
 │  PRIMARY                     │
 │  CYBER SECURITY              │
@@ -117,13 +124,14 @@ That's the point.
 │  ENVIRONMENT                 │
 │  LINUX / TERMUX              │
 │                              │
-│  STATUS                      │
+│  STATE                       │
 │  ● ACTIVE                    │
 │                              │
 ╰──────────────────────────────╯
 ```
 
 </td>
+
 </tr>
 </table>
 
@@ -131,66 +139,116 @@ That's the point.
 
 <div align="center">
 
-# `03 // CORE ARCHITECTURE`
+# `BLACKBOX // 03`
+
+## `SYSTEM ARCHITECTURE`
 
 ```text
-                             ┌──────────────┐
-                             │  V1N55X404   │
-                             └──────┬───────┘
-                                    │
-                 ┌──────────────────┼──────────────────┐
-                 │                  │                  │
-                 ▼                  ▼                  ▼
-          ┌─────────────┐    ┌─────────────┐    ┌─────────────┐
-          │  SECURITY   │    │   SYSTEMS   │    │    CODE     │
-          └──────┬──────┘    └──────┬──────┘    └──────┬──────┘
-                 │                  │                  │
-          ┌──────┼──────┐    ┌──────┼──────┐    ┌──────┼──────┐
-          ▼      ▼      ▼    ▼      ▼      ▼    ▼      ▼      ▼
-         WEB    OSINT   NET  LINUX  CLI   TERMUX HTML   CSS    JS
-          │      │      │    │      │      │     │      │      │
-          └──────┴──────┴────┴──────┴──────┴─────┴──────┴──────┘
-                                    │
-                                    ▼
-                             UNDERSTANDING
-                                    │
-                                    ▼
-                               EVOLUTION
+                              ╭──────────────╮
+                              │  V1N55X404   │
+                              ╰──────┬───────╯
+                                     │
+                  ┌──────────────────┼──────────────────┐
+                  │                  │                  │
+                  ▼                  ▼                  ▼
+             ╭──────────╮       ╭──────────╮       ╭──────────╮
+             │ SECURITY │       │  SYSTEMS │       │   CODE   │
+             ╰────┬─────╯       ╰────┬─────╯       ╰────┬─────╯
+                  │                  │                  │
+             ┌────┼────┐        ┌────┼────┐        ┌────┼────┐
+             ▼    ▼    ▼        ▼    ▼    ▼        ▼    ▼    ▼
+            WEB  OSINT NET     LINUX TERMUX CLI    HTML  JS   PHP
+             │    │    │        │    │    │        │    │    │
+             └────┴────┴────────┴────┴────┴────────┴────┴────┘
+                                     │
+                                     ▼
+                              ┌──────────────┐
+                              │ UNDERSTAND   │
+                              └──────┬───────┘
+                                     │
+                                     ▼
+                              ┌──────────────┐
+                              │   EVOLVE     │
+                              └──────────────┘
 ```
 
 </div>
 
 ---
 
-# `04 // SECURITY LAB`
+# `BLACKBOX // 04`
+
+## `SECURITY LAB`
 
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=00FFC8"/>
 
-<br>
+<br><br>
 
-### `WEB SECURITY`
+<table>
+<tr>
 
-**HTTP / HTTPS · OWASP · WEB TESTING · VULNERABILITY ANALYSIS**
+<td width="50%" align="center">
 
-<br>
+### `01 / WEB`
 
-### `NETWORK SECURITY`
+# WEB SECURITY
 
-**TCP/IP · PORTS · TRAFFIC · INFRASTRUCTURE**
+`HTTP` · `HTTPS` · `OWASP`
 
-<br>
+`WEB TESTING`
 
-### `SYSTEM SECURITY`
+`VULNERABILITY ANALYSIS`
 
-**LINUX · KALI LINUX · TERMUX · CLI**
+</td>
 
-<br>
+<td width="50%" align="center">
 
-### `RECONNAISSANCE`
+### `02 / NET`
 
-**OSINT · ENUMERATION · INFORMATION GATHERING**
+# NETWORK SECURITY
+
+`TCP/IP` · `PORTS`
+
+`TRAFFIC ANALYSIS`
+
+`INFRASTRUCTURE`
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" align="center">
+
+### `03 / SYS`
+
+# SYSTEM SECURITY
+
+`LINUX` · `KALI LINUX`
+
+`TERMUX` · `CLI`
+
+</td>
+
+<td width="50%" align="center">
+
+### `04 / RECON`
+
+# RECON / OSINT
+
+`RECONNAISSANCE`
+
+`ENUMERATION`
+
+`INFORMATION GATHERING`
+
+</td>
+
+</tr>
+</table>
 
 <br>
 
@@ -200,9 +258,32 @@ That's the point.
 
 ---
 
-# `05 // TECHNOLOGY MATRIX`
+# `BLACKBOX // 05`
+
+## `TECHNOLOGY CONSTELLATION`
 
 <div align="center">
+
+```text
+                           V1N55X404
+                               │
+                 ┌─────────────┼─────────────┐
+                 │             │             │
+                 ▼             ▼             ▼
+               BUILD         SYSTEM        SECURE
+                 │             │             │
+          ┌──────┼──────┐   ┌──┼──┐    ┌────┼────┐
+          ▼      ▼      ▼   ▼     ▼    ▼     ▼    ▼
+         HTML    CSS    JS LINUX  CLI  KALI  BURP  WIRESHARK
+          │      │      │   │     │    │     │      │
+          └──────┼──────┘   └─────┼────┘    └─────┼┘
+                 │                │                │
+                 └────────────────┼────────────────┘
+                                  ▼
+                             THE BLACKBOX
+```
+
+<br>
 
 ### `LANGUAGES`
 
@@ -216,7 +297,7 @@ That's the point.
 
 <br><br>
 
-### `SECURITY`
+### `SECURITY TOOLKIT`
 
 <img src="https://img.shields.io/badge/KALI_LINUX-030303?style=for-the-badge&logo=kalilinux&logoColor=557C94"/>
 <img src="https://img.shields.io/badge/TERMUX-030303?style=for-the-badge&logo=termux&logoColor=00FFC8"/>
@@ -230,51 +311,62 @@ That's the point.
 
 <div align="center">
 
-# `06 // THE LAB`
+# `BLACKBOX // 06`
 
-### **THEORY IS ONLY THE BEGINNING.**
+## `THE RESEARCH LOOP`
+
+<br>
 
 ```text
-                   ┌─────────────────────┐
-                   │      QUESTION       │
-                   └──────────┬──────────┘
-                              ↓
-                   ┌─────────────────────┐
-                   │      RESEARCH       │
-                   └──────────┬──────────┘
-                              ↓
-                 ┌────────────┴────────────┐
-                 ↓                         ↓
-        ┌─────────────────┐       ┌─────────────────┐
-        │      BUILD      │       │      TEST       │
-        └────────┬────────┘       └────────┬────────┘
-                 │                         │
-                 └────────────┬────────────┘
-                              ↓
-                   ┌─────────────────────┐
-                   │       ANALYZE       │
-                   └──────────┬──────────┘
-                              ↓
-                   ┌─────────────────────┐
-                   │       SECURE        │
-                   └──────────┬──────────┘
-                              ↓
-                   ┌─────────────────────┐
-                   │       LEARN         │
-                   └──────────┬──────────┘
-                              │
-                              └──────────────► REPEAT
+              ╭──────────────╮
+              │    QUESTION  │
+              ╰──────┬───────╯
+                     │
+                     ▼
+              ╭──────────────╮
+              │   RESEARCH   │
+              ╰──────┬───────╯
+                     │
+              ┌──────┴──────┐
+              ▼             ▼
+        ╭──────────╮   ╭──────────╮
+        │  BUILD   │   │   TEST   │
+        ╰────┬─────╯   ╰────┬─────╯
+             │              │
+             └──────┬───────┘
+                    ▼
+              ╭──────────────╮
+              │    ANALYZE   │
+              ╰──────┬───────╯
+                     │
+                     ▼
+              ╭──────────────╮
+              │    SECURE    │
+              ╰──────┬───────╯
+                     │
+                     ▼
+              ╭──────────────╮
+              │    LEARN     │
+              ╰──────┬───────╯
+                     │
+                     └──────────────► REPEAT
 ```
+
+<br>
+
+### **THEORY IS ONLY THE BEGINNING.**
 
 </div>
 
 ---
 
-# `07 // PROJECT ARCHIVE`
+# `BLACKBOX // 07`
+
+## `PROJECT ARCHIVE`
 
 <div align="center">
 
-## **BUILT, TESTED, REFINED.**
+### **REAL SYSTEMS. REAL EXPERIMENTS. REAL LEARNING.**
 
 </div>
 
@@ -287,15 +379,17 @@ That's the point.
 
 <div align="center">
 
-### `PROJECT / 001`
+`PROJECT / 001`
 
 # YADIKA LIBRARY
 
-`PHP` · `MYSQL` · `WEB`
+### `WEB APPLICATION`
+
+`PHP` · `MYSQL` · `MANAGEMENT SYSTEM`
 
 </div>
 
-A practical library management platform designed around administration, books, members, and borrowing workflows.
+A practical library management platform built around books, members, borrowing, returning, and administration.
 
 <br>
 
@@ -303,7 +397,7 @@ A practical library management platform designed around administration, books, m
 
 <a href="https://github.com/alfin014/perpustakaan-yadika">
 
-<img src="https://img.shields.io/badge/EXPLORE_PROJECT-00FFC8?style=for-the-badge&labelColor=050505&logo=github&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/OPEN_SOURCE-00FFC8?style=for-the-badge&labelColor=030303&logo=github&logoColor=FFFFFF"/>
 
 </a>
 
@@ -315,15 +409,17 @@ A practical library management platform designed around administration, books, m
 
 <div align="center">
 
-### `PROJECT / 002`
+`PROJECT / 002`
 
 # YADIKA CYBER ACADEMY
+
+### `SECURITY PLATFORM`
 
 `SECURITY` · `LINUX` · `OSINT`
 
 </div>
 
-A cyber security learning platform focused on structured learning, challenges, and practical exploration.
+A learning platform focused on cyber security concepts, Linux, networking, OSINT, and practical challenges.
 
 <br>
 
@@ -331,7 +427,7 @@ A cyber security learning platform focused on structured learning, challenges, a
 
 <a href="https://github.com/alfin014/yadika-cyber-academy">
 
-<img src="https://img.shields.io/badge/EXPLORE_PROJECT-7B2FFF?style=for-the-badge&labelColor=050505&logo=github&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/OPEN_SOURCE-7B2FFF?style=for-the-badge&labelColor=030303&logo=github&logoColor=FFFFFF"/>
 
 </a>
 
@@ -346,34 +442,32 @@ A cyber security learning platform focused on structured learning, challenges, a
 
 <div align="center">
 
-# `08 // KNOWLEDGE ENGINE`
+# `BLACKBOX // 08`
 
-### `CURRENTLY LEARNING`
-
-<br>
+## `KNOWLEDGE ENGINE`
 
 ```text
-╭──────────────────────────────────────────────────────────────╮
-│                                                              │
-│  WEB SECURITY        ███████████████████████░    ACTIVE      │
-│  LINUX / TERMUX      ███████████████████████░    ACTIVE      │
-│  FRONTEND            ████████████████████████    ACTIVE      │
-│  NETWORKING          ██████████████████░░░░░    BUILDING    │
-│  PYTHON              ████████████████░░░░░░░    BUILDING    │
-│  OSINT               ██████████████░░░░░░░░░    EXPLORING   │
-│                                                              │
-╰──────────────────────────────────────────────────────────────╯
+╭────────────────────────────────────────────────────────────╮
+│                                                            │
+│  WEB SECURITY       ████████████████████████░    ACTIVE    │
+│  LINUX / TERMUX     ████████████████████████░    ACTIVE    │
+│  FRONTEND           █████████████████████████    ACTIVE    │
+│  NETWORKING         ██████████████████░░░░░░    BUILDING  │
+│  PYTHON             ████████████████░░░░░░░░    BUILDING  │
+│  OSINT              ██████████████░░░░░░░░░░    EXPLORING │
+│                                                            │
+╰────────────────────────────────────────────────────────────╯
 ```
 
-<br>
-
-### `THERE IS NO FINAL VERSION OF KNOWLEDGE.`
+### `NO FINAL VERSION OF KNOWLEDGE.`
 
 </div>
 
 ---
 
-# `09 // GITHUB TELEMETRY`
+# `BLACKBOX // 09`
+
+## `LIVE TELEMETRY`
 
 <div align="center">
 
@@ -389,7 +483,9 @@ A cyber security learning platform focused on structured learning, challenges, a
 
 ---
 
-# `10 // ACTIVITY FIELD`
+# `BLACKBOX // 10`
+
+## `ACTIVITY FIELD`
 
 <div align="center">
 
@@ -405,25 +501,25 @@ A cyber security learning platform focused on structured learning, challenges, a
 
 <div align="center">
 
-# `11 // SYSTEM DIAGNOSTICS`
+# `BLACKBOX // 11`
 
-<br>
+## `SYSTEM DIAGNOSTICS`
 
 ```text
 ╔══════════════════════════════════════════════════════════════╗
-║                    APEX NODE DIAGNOSTICS                     ║
+║                     BLACKBOX DIAGNOSTICS                     ║
 ╠══════════════════════════════════════════════════════════════╣
 ║                                                              ║
-║   IDENTITY             ● VERIFIED                            ║
-║   SECURITY             ● ACTIVE                              ║
-║   DEVELOPMENT          ● ONLINE                              ║
-║   NETWORK              ● CONNECTED                           ║
-║   LINUX                ● READY                               ║
-║   RESEARCH             ● CONTINUOUS                          ║
+║  IDENTITY             ● VERIFIED                            ║
+║  SECURITY             ● ACTIVE                              ║
+║  DEVELOPMENT          ● ONLINE                              ║
+║  NETWORK              ● CONNECTED                           ║
+║  LINUX                ● READY                               ║
+║  RESEARCH             ● RUNNING                             ║
 ║                                                              ║
-║   CURIOSITY            ████████████████████████████  100%    ║
-║   LEARNING             ████████████████████████████   ∞      ║
-║   ETHICAL PROTOCOL     ████████████████████████████  ON      ║
+║  CURIOSITY            ████████████████████████████  100%    ║
+║  LEARNING             ████████████████████████████   ∞      ║
+║  ETHICAL PROTOCOL     ████████████████████████████  ON      ║
 ║                                                              ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
@@ -432,113 +528,120 @@ A cyber security learning platform focused on structured learning, challenges, a
 
 ---
 
-# `12 // PERSONAL TERMINAL`
+# `BLACKBOX // 12`
+
+## `PERSONAL TERMINAL`
 
 <div align="center">
 
 ```text
-┌──(V1N55X404㉿apex)-[~/core]
-└─$ whoami
-
-V1N55X404
-
-└─$ ./initialize
-
-[+] Loading identity.............. OK
-[+] Loading security core......... OK
-[+] Loading network core.......... OK
-[+] Loading development core...... OK
-[+] Loading research engine....... OK
-
-[+] Ethical protocol.............. ENABLED
-[+] Curiosity..................... UNLIMITED
-[+] Learning...................... ACTIVE
-
-└─$ cat philosophy.txt
-
-Understand before assuming.
-Build before claiming.
-Test before trusting.
-Secure what you understand.
-
-└─$ systemctl status curiosity
-
-● curiosity.service
-   Loaded: enabled
-   Active: running
-   Uptime: ∞
-
-└─$ exit
-
-SESSION TERMINATED.
+┌──(V1N55X404㉿BLACKBOX)-[~/identity]
+│
+├─$ whoami
+│
+│  V1N55X404
+│
+├─$ ./boot
+│
+│  [✓] identity
+│  [✓] security
+│  [✓] network
+│  [✓] development
+│  [✓] research
+│
+├─$ cat philosophy.txt
+│
+│  Understand before assuming.
+│  Build before claiming.
+│  Test before trusting.
+│  Secure what you understand.
+│
+├─$ systemctl status curiosity
+│
+│  ● curiosity.service
+│    Active: running
+│    Uptime: ∞
+│
+└─$ _
 ```
 
 </div>
 
 ---
 
-# `13 // THE PRINCIPLE`
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=00FFC8"/>
+# `BLACKBOX // 13`
+
+## `THE PRINCIPLE`
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=00FFC8"/>
 
 <br><br>
 
-## **I'M NOT TRYING TO KNOW EVERYTHING.**
+# **I'M NOT TRYING TO KNOW EVERYTHING.**
 
-### **I'M TRYING TO UNDERSTAND ONE MORE THING EVERY DAY.**
+## **I'M TRYING TO UNDERSTAND ONE MORE THING EVERY DAY.**
 
 <br>
 
 ```text
 QUESTION
-   ↓
+   │
+   ▼
 UNDERSTAND
-   ↓
+   │
+   ▼
 BUILD
-   ↓
+   │
+   ▼
 TEST
-   ↓
+   │
+   ▼
 ANALYZE
-   ↓
+   │
+   ▼
 SECURE
-   ↓
+   │
+   ▼
 LEARN
-   ↓
-REPEAT
+   │
+   └──────────────────────► REPEAT
 ```
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=7B2FFF"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=7B2FFF"/>
 
 </div>
 
 ---
 
-# `14 // FINAL TRANSMISSION`
-
 <div align="center">
 
-<br>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=420&section=footer&color=0:000000,18:0A0010,38:3820FF,54:00FFC8,70:06362C,86:020505,100:000000&text=V1N55X404&fontSize=75&fontColor=FFFFFF&fontAlignY=40&desc=THE%20NODE%20REMAINS%20ACTIVE&descAlignY=61&descSize=16&animation=fadeIn"/>
+# `BLACKBOX // FINAL`
 
 <br>
 
-### `LEARN`   `·`   `BUILD`   `·`   `SECURE`
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=450&section=footer&color=0:000000,18:09000F,36:321A7A,52:00FFC8,68:06251F,84:010303,100:000000&text=V1N55X404&fontSize=82&fontColor=FFFFFF&fontAlignY=39&desc=THE%20NODE%20REMAINS%20ACTIVE&descAlignY=61&descSize=16&animation=fadeIn"/>
 
-<br><br>
+<br>
+
+### `LEARN`   ×   `BUILD`   ×   `SECURE`
+
+<br>
 
 <a href="https://github.com/alfin014">
 <img src="https://img.shields.io/badge/GITHUB-050505?style=for-the-badge&logo=github&logoColor=00FFC8"/>
 </a>
-
 <a href="https://portofolio-diriku.netlify.app/">
 <img src="https://img.shields.io/badge/PORTFOLIO-050505?style=for-the-badge&logo=firefox&logoColor=00FFC8"/>
 </a>
-
+<a href="https://instagram.com/alfi.nzs">
+<img src="https://img.shields.io/badge/INSTAGRAM-050505?style=for-the-badge&logo=instagram&logoColor=E1306C"/>
+</a>
 <a href="mailto:alfinzafitra@gmail.com">
 <img src="https://img.shields.io/badge/EMAIL-050505?style=for-the-badge&logo=gmail&logoColor=00FFC8"/>
 </a>
@@ -548,18 +651,20 @@ REPEAT
 ```text
 ╔══════════════════════════════════════════════════════════════╗
 ║                                                              ║
-║                     END OF TRANSMISSION                      ║
+║                    END OF TRANSMISSION                       ║
 ║                                                              ║
-║                       V1N55X404                               ║
+║                         V1N55X404                             ║
 ║                                                              ║
-║                       ● SYSTEM ONLINE                         ║
+║                       ● SYSTEM ONLINE                        ║
 ║                                                              ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
+<br>
+
 <sub>
 
-`APEX NODE // DIGITAL IDENTITY // 2026`
+`BLACKBOX // DIGITAL IDENTITY // V1N55X404 // 2026`
 
 </sub>
 
