@@ -1,32 +1,49 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=430&color=0:000000,18:010404,38:03110E,58:00FFC8,73:3D22FF,88:09000F,100:000000&text=V1N55X404&fontSize=112&fontColor=FFFFFF&fontAlignY=39&desc=BLACKBOX%20%2F%2F%20CYBER%20SECURITY%20%2F%2F%20DEVELOPMENT&descAlignY=63&descSize=15&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=500&color=0:000000,18:010303,35:03100D,52:06221C,67:00FFC8,79:4020FF,90:09000E,100:000000&text=V1N55X404&fontSize=125&fontColor=FFFFFF&fontAlignY=37&desc=ZERO-POINT%20%2F%2F%20DIGITAL%20IDENTITY&descAlignY=59&descSize=17&animation=fadeIn"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=17&duration=1400&pause=350&color=00FFC8&center=true&vCenter=true&width=950&lines=%5B+BLACKBOX+INITIALIZED+%5D;%5B+IDENTITY+VERIFIED+%5D;%5B+SECURITY+CORE+ONLINE+%5D;%5B+DEVELOPMENT+CORE+ONLINE+%5D;%5B+ETHICAL+PROTOCOL+ACTIVE+%5D;%3E+WELCOME+TO+V1N55X404." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=16&duration=1200&pause=300&color=00FFC8&center=true&vCenter=true&width=1000&lines=INITIALIZING+ZERO-POINT...;IDENTITY+CONFIRMED+%2F%2F+V1N55X404;CYBER+SECURITY+%2F%2F+FRONTEND+%2F%2F+NETWORKING;RESEARCH+PROTOCOL+ACTIVE;ETHICAL+MODE+%3A+ENABLED;SYSTEM+READY." />
 
 <br><br>
 
 <a href="https://github.com/alfin014">
 <img src="https://img.shields.io/badge/GITHUB-050505?style=for-the-badge&logo=github&logoColor=00FFC8"/>
 </a>
-
+&nbsp;
 <a href="https://portofolio-diriku.netlify.app/">
 <img src="https://img.shields.io/badge/PORTFOLIO-050505?style=for-the-badge&logo=firefox&logoColor=00FFC8"/>
 </a>
-
+&nbsp;
 <a href="https://instagram.com/alfi.nzs">
 <img src="https://img.shields.io/badge/INSTAGRAM-050505?style=for-the-badge&logo=instagram&logoColor=00FFC8"/>
 </a>
-
+&nbsp;
 <a href="mailto:alfinzafitra@gmail.com">
 <img src="https://img.shields.io/badge/CONTACT-050505?style=for-the-badge&logo=gmail&logoColor=00FFC8"/>
 </a>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=alfin014&label=BLACKBOX%20VISITS&color=00FFC8&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=alfin014&label=SIGNALS&color=00FFC8&style=for-the-badge"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+# `THE PERSON BEHIND THE CODE`
+
+### **V1N55X404**
+
+`CYBER SECURITY` · `FRONTEND DEVELOPMENT` · `NETWORKING`
+
+<br>
+
+> **I don't chase technology.
+> I chase understanding.**
 
 </div>
 
@@ -35,162 +52,75 @@
 ---
 
 <div align="center">
+
+### `ZERO-POINT`
 
 ```text
-╭──────────────────────────────────────────────────────────────────╮
-│                                                                  │
-│                         V1N55X404                                │
-│                                                                  │
-│                  DIGITAL IDENTITY / BLACKBOX                     │
-│                                                                  │
-│        CYBER SECURITY       FRONTEND DEVELOPMENT                 │
-│        NETWORKING           SECURITY RESEARCH                    │
-│                                                                  │
-│                     ● SYSTEM ONLINE                              │
-│                     ● ETHICAL MODE                               │
-│                     ● ALWAYS LEARNING                             │
-│                                                                  │
-╰──────────────────────────────────────────────────────────────────╯
+                              ◉
+                           ZERO-POINT
+                              │
+               ┌──────────────┼──────────────┐
+               │              │              │
+               ▼              ▼              ▼
+           SECURITY        CREATION       SYSTEMS
+               │              │              │
+               │              │              │
+               └──────────────┼──────────────┘
+                              │
+                              ▼
+                         UNDERSTANDING
+                              │
+                              ▼
+                           EVOLUTION
 ```
-
-### `CURIOUS BY NATURE · ETHICAL BY CHOICE · BUILT TO LEARN`
-
-</div>
-
-<br>
-
-# `BLACKBOX / 00`
-
-<div align="center">
-
-## **V1N55X404**
-
-### `Cyber Security Enthusiast · Frontend Developer`
-
-</div>
-
-I'm **V1N55X404**, a Cyber Security enthusiast and Frontend Developer from Indonesia.
-
-I explore the intersection between **code, systems, networks, and security**.
-
-I like building things.
-
-I like understanding how they work.
-
-And when something breaks, I like understanding **why**.
-
-<br>
-
-<div align="center">
-
-> **Technology is interesting on the surface.
-> The real story starts underneath.**
 
 </div>
 
 ---
 
-# `BLACKBOX / 01`
-
-## `IDENTITY`
-
-```text
-┌─────────────────────────────────────────────────────────────┐
-│                                                             │
-│  HANDLE       V1N55X404                                     │
-│  BASE         INDONESIA 🇮🇩                                 │
-│                                                             │
-│  PRIMARY      CYBER SECURITY                                │
-│               FRONTEND DEVELOPMENT                          │
-│                                                             │
-│  SECONDARY    NETWORKING                                    │
-│               LINUX / TERMINAL                              │
-│               OSINT                                         │
-│               SECURITY RESEARCH                             │
-│                                                             │
-│  PHILOSOPHY   LEARN → BUILD → TEST → ANALYZE → SECURE      │
-│                                                             │
-│  STATUS       ● ONLINE                                      │
-│                                                             │
-└─────────────────────────────────────────────────────────────┘
-```
-
----
-
-# `BLACKBOX / 02`
-
-## `CAPABILITY MAP`
+# `01 — IDENTITY`
 
 <div align="center">
 
 <table>
 <tr>
 
-<td width="25%" align="center">
+<td width="55%">
 
-### `WEB`
+## **WHO AM I?**
 
-<br>
+I'm **V1N55X404**, a Cyber Security enthusiast and Frontend Developer from Indonesia.
 
-## 🔐
+My interests sit between:
 
-**WEB SECURITY**
+**security × software × systems × networks**
 
-HTTP / HTTPS
-OWASP
-Vulnerability Analysis
-Web Testing
+I enjoy exploring how technology behaves beneath the surface, building applications, experimenting with systems, and continuously learning how to make things work better and more securely.
 
 </td>
 
-<td width="25%" align="center">
+<td width="45%">
 
-### `NETWORK`
-
-<br>
-
-## 🌐
-
-**NETWORK SECURITY**
-
-TCP / IP
-Ports
-Traffic Analysis
-Infrastructure
-
-</td>
-
-<td width="25%" align="center">
-
-### `SYSTEM`
-
-<br>
-
-## 🐧
-
-**LINUX**
-
-Kali Linux
-Termux
-CLI
-System Tools
-
-</td>
-
-<td width="25%" align="center">
-
-### `RECON`
-
-<br>
-
-## 🕵️
-
-**OSINT**
-
-Reconnaissance
-Enumeration
-Information Gathering
-Research
+```text
+╭────────────────────────────╮
+│                            │
+│       V1N55X404            │
+│                            │
+│       INDONESIA 🇮🇩        │
+│                            │
+│  ───────────────────────   │
+│                            │
+│  CYBER SECURITY            │
+│  FRONTEND                  │
+│  NETWORKING                │
+│  LINUX                     │
+│  OSINT                     │
+│                            │
+│  STATUS                    │
+│  ● CONSTANTLY LEARNING     │
+│                            │
+╰────────────────────────────╯
+```
 
 </td>
 
@@ -201,112 +131,183 @@ Research
 
 ---
 
-# `BLACKBOX / 03`
-
-## `TECH STACK`
+# `02 — THE CORE`
 
 <div align="center">
 
-### `BUILD`
+## **CURIOUS BY NATURE.**
+
+## **ETHICAL BY CHOICE.**
+
+## **OBSESSED WITH UNDERSTANDING.**
+
+<br>
+
+<table>
+<tr>
+<td align="center">
+
+### `01`
+
+**DISCOVER**
+
+Find the unknown.
+
+</td>
+
+<td align="center">
+
+### `02`
+
+**UNDERSTAND**
+
+Break complexity into systems.
+
+</td>
+
+<td align="center">
+
+### `03`
+
+**BUILD**
+
+Turn knowledge into something real.
+
+</td>
+
+<td align="center">
+
+### `04`
+
+**SECURE**
+
+Make what exists stronger.
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+# `03 — SECURITY ARCHITECTURE`
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=00FFC8"/>
+
+<br>
+
+### `WEB SECURITY`
+
+`HTTP` · `HTTPS` · `OWASP` · `WEB TESTING` · `VULNERABILITY ANALYSIS`
+
+<br><br>
+
+### `NETWORK SECURITY`
+
+`TCP/IP` · `PORTS` · `TRAFFIC ANALYSIS` · `NETWORK INFRASTRUCTURE`
+
+<br><br>
+
+### `SYSTEMS`
+
+`LINUX` · `KALI LINUX` · `TERMUX` · `CLI` · `SYSTEM TOOLS`
+
+<br><br>
+
+### `RECON`
+
+`OSINT` · `ENUMERATION` · `RECONNAISSANCE` · `INFORMATION GATHERING`
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=7B2FFF"/>
+
+</div>
+
+---
+
+# `04 — TECHNOLOGY`
+
+<div align="center">
+
+## `THE STACK`
+
+<br>
+
+### BUILD
 
 <img src="https://skillicons.dev/icons?i=html,css,js,python,php,bash,mysql&perline=7"/>
 
 <br><br>
 
-### `CREATE`
+### ENVIRONMENT
 
 <img src="https://skillicons.dev/icons?i=linux,git,github,vscode,nodejs,figma&perline=6"/>
 
 <br><br>
 
-### `SECURE`
+### SECURITY TOOLKIT
 
-<img src="https://img.shields.io/badge/KALI_LINUX-030303?style=for-the-badge&logo=kalilinux&logoColor=557C94"/>
-<img src="https://img.shields.io/badge/TERMUX-030303?style=for-the-badge&logo=termux&logoColor=00FFC8"/>
-<img src="https://img.shields.io/badge/BURP_SUITE-030303?style=for-the-badge&logo=burpsuite&logoColor=FF6633"/>
-<img src="https://img.shields.io/badge/METASPLOIT-030303?style=for-the-badge&logo=metasploit&logoColor=2596CD"/>
-<img src="https://img.shields.io/badge/WIRESHARK-030303?style=for-the-badge&logo=wireshark&logoColor=1679A7"/>
+<img src="https://img.shields.io/badge/KALI_LINUX-050505?style=for-the-badge&logo=kalilinux&logoColor=557C94"/>
+<img src="https://img.shields.io/badge/TERMUX-050505?style=for-the-badge&logo=termux&logoColor=00FFC8"/>
+<img src="https://img.shields.io/badge/BURP_SUITE-050505?style=for-the-badge&logo=burpsuite&logoColor=FF6633"/>
+<img src="https://img.shields.io/badge/METASPLOIT-050505?style=for-the-badge&logo=metasploit&logoColor=2596CD"/>
+<img src="https://img.shields.io/badge/WIRESHARK-050505?style=for-the-badge&logo=wireshark&logoColor=1679A7"/>
 
 </div>
 
 ---
 
-# `BLACKBOX / 04`
+# `05 — CURRENT STATE`
 
 <div align="center">
 
-## `THE LAB`
-
-### **Where curiosity becomes something real.**
-
-</div>
+### `KNOWLEDGE IS NEVER FINISHED.`
 
 <br>
 
-```text
-                    ┌───────────────────────┐
-                    │      THE LAB          │
-                    └───────────┬───────────┘
-                                │
-             ┌──────────────────┼──────────────────┐
-             │                  │                  │
-             ▼                  ▼                  ▼
-       ┌───────────┐      ┌───────────┐      ┌───────────┐
-       │   BUILD   │      │   TEST    │      │  SECURE   │
-       └─────┬─────┘      └─────┬─────┘      └─────┬─────┘
-             │                  │                  │
-             └──────────────────┼──────────────────┘
-                                ▼
-                       ┌─────────────────┐
-                       │   UNDERSTAND    │
-                       └────────┬────────┘
-                                │
-                                ▼
-                           LEARN MORE
-```
+| DOMAIN            |           CURRENT STATE          |
+| :---------------- | :------------------------------: |
+| 🔐 Web Security   |   `███████████████████░` ACTIVE  |
+| 🐧 Linux / Termux |   `███████████████████░` ACTIVE  |
+| 💻 Frontend       |   `████████████████████` ACTIVE  |
+| 🌐 Networking     |  `████████████████░░░░` BUILDING |
+| 🐍 Python         |  `██████████████░░░░░░` BUILDING |
+| 🕵️ OSINT         | `████████████░░░░░░░░` EXPLORING |
 
-<div align="center">
+<br>
 
-`WEB SECURITY` · `LINUX` · `NETWORKING` · `OSINT` · `DEVELOPMENT`
+`NO FINISH LINE`
 
 </div>
 
 ---
 
-# `BLACKBOX / 05`
-
-## `CURRENT FOCUS`
+# `06 — PROJECTS`
 
 <div align="center">
 
-```text
-╭──────────────────────────────────────────────────────────────╮
-│                                                              │
-│                    KNOWLEDGE ENGINE                          │
-│                                                              │
-│  WEB SECURITY          ████████████████████░░    ACTIVE      │
-│  LINUX / TERMUX        ███████████████████░░░    ACTIVE      │
-│  FRONTEND              █████████████████████░    ACTIVE      │
-│  NETWORKING            ████████████████░░░░░░    BUILDING    │
-│  PYTHON                ██████████████░░░░░░░░    BUILDING    │
-│  OSINT                 ████████████░░░░░░░░░░    RESEARCH    │
-│                                                              │
-╰──────────────────────────────────────────────────────────────╯
-```
+## **THINGS I'VE ACTUALLY BUILT**
 
-### `LEARNING IS THE FEATURE.`
+<br>
 
-</div>
+<table>
+<tr>
 
----
+<td align="center" width="50%">
 
-# `BLACKBOX / 06`
+## `YADIKA LIBRARY`
 
-## `PROJECT ARCHIVE`
+<br>
 
-<div align="center">
+**WEB APPLICATION**
 
-### `01 / YADIKA LIBRARY`
+PHP · MySQL · Library Management
+
+<br><br>
 
 <a href="https://github.com/alfin014/perpustakaan-yadika">
 
@@ -314,9 +315,19 @@ Research
 
 </a>
 
+</td>
+
+<td align="center" width="50%">
+
+## `YADIKA CYBER ACADEMY`
+
 <br>
 
-### `02 / YADIKA CYBER ACADEMY`
+**CYBER LEARNING PLATFORM**
+
+Security · Linux · OSINT · Networking
+
+<br><br>
 
 <a href="https://github.com/alfin014/yadika-cyber-academy">
 
@@ -324,28 +335,23 @@ Research
 
 </a>
 
-<br><br>
+</td>
 
-```text
-┌─────────────────────────────────────────────────────┐
-│                                                     │
-│  BUILD SOMETHING                                    │
-│  THAT TEACHES YOU SOMETHING.                        │
-│                                                     │
-└─────────────────────────────────────────────────────┘
-```
+</tr>
+</table>
+
+<br>
+
+> **A project is not finished when it works.
+> It's finished when you understand why it works.**
 
 </div>
 
 ---
 
-# `BLACKBOX / 07`
+# `07 — GITHUB SIGNAL`
 
 <div align="center">
-
-## `GITHUB TELEMETRY`
-
-<br>
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=alfin014&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight&bg_color=050B0A&title_color=00FFC8&icon_color=7B2FFF&text_color=C9D1D9"/>
 
@@ -353,54 +359,116 @@ Research
 
 <br><br>
 
-<img width="72%" src="https://streak-stats.demolab.com?user=alfin014&theme=tokyonight&hide_border=true&background=050B0A&ring=7B2FFF&fire=00FFC8&currStreakLabel=00FFC8&sideLabels=00FFC8&dates=8B949E"/>
+<img width="70%" src="https://streak-stats.demolab.com?user=alfin014&theme=tokyonight&hide_border=true&background=050B0A&ring=7B2FFF&fire=00FFC8&currStreakLabel=00FFC8&sideLabels=00FFC8&dates=8B949E"/>
 
 </div>
 
 ---
 
-# `BLACKBOX / 08`
-
-## `ACTIVITY`
+# `08 — ACTIVITY`
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=alfin014&bg_color=050B0A&color=00FFC8&line=7B2FFF&point=FFFFFF&area=true&hide_border=true&custom_title=V1N55X404%20%2F%2F%20ACTIVITY%20FIELD"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=alfin014&bg_color=050B0A&color=00FFC8&line=7B2FFF&point=FFFFFF&area=true&hide_border=true&custom_title=V1N55X404%20%2F%2F%20ACTIVITY%20SIGNAL"/>
+
+<br>
+
+<img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" width="92%" alt="Contribution Graph"/>
 
 </div>
 
 ---
 
-# `BLACKBOX / 09`
-
-## `CONTRIBUTION FIELD`
+# `09 — THE LAB`
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" width="92%" alt="GitHub Contribution Snake"/>
+```text
+                         ┌───────────────┐
+                         │    QUESTION   │
+                         └───────┬───────┘
+                                 │
+                                 ▼
+                         ┌───────────────┐
+                         │   EXPLORE     │
+                         └───────┬───────┘
+                                 │
+                                 ▼
+                    ┌────────────┴────────────┐
+                    │                         │
+                    ▼                         ▼
+              ┌───────────┐             ┌───────────┐
+              │   BUILD   │             │   BREAK   │
+              └─────┬─────┘             └─────┬─────┘
+                    │                         │
+                    └────────────┬────────────┘
+                                 ▼
+                         ┌───────────────┐
+                         │   ANALYZE     │
+                         └───────┬───────┘
+                                 │
+                                 ▼
+                         ┌───────────────┐
+                         │    SECURE     │
+                         └───────┬───────┘
+                                 │
+                                 ▼
+                         ┌───────────────┐
+                         │    LEARN      │
+                         └───────────────┘
+```
+
+### `THE LAB IS WHERE THEORY GETS TESTED.`
 
 </div>
 
 ---
 
-# `BLACKBOX / 10`
+# `10 — SYSTEM STATUS`
 
 <div align="center">
 
-## `SYSTEM DIAGNOSTICS`
+<table>
+<tr>
+<td align="center">
+
+### `IDENTITY`
+
+🟢 VERIFIED
+
+</td>
+<td align="center">
+
+### `SECURITY`
+
+🟢 ACTIVE
+
+</td>
+<td align="center">
+
+### `DEVELOPMENT`
+
+🟢 ONLINE
+
+</td>
+<td align="center">
+
+### `RESEARCH`
+
+🟢 CONTINUOUS
+
+</td>
+</tr>
+</table>
+
+<br>
 
 ```text
 ╭────────────────────────────────────────────────────────────╮
 │                                                            │
-│  IDENTITY          ● VERIFIED                              │
-│  SECURITY          ● ENABLED                               │
-│  DEVELOPMENT       ● ONLINE                                │
-│  NETWORK           ● CONNECTED                             │
-│  LINUX             ● READY                                 │
-│  ETHICAL MODE      ● ACTIVE                                │
-│                                                            │
-│  CURIOSITY         ████████████████████████████████ 100%   │
-│  LEARNING          ████████████████████████████████ ∞      │
+│  CURIOSITY       ████████████████████████████████  100%   │
+│  LEARNING        ████████████████████████████████  ∞      │
+│  ETHICS          ████████████████████████████████  ON     │
 │                                                            │
 ╰────────────────────────────────────────────────────────────╯
 ```
@@ -409,98 +477,75 @@ Research
 
 ---
 
-# `BLACKBOX / 11`
-
-## `TERMINAL SESSION`
+# `11 — TERMINAL`
 
 <div align="center">
 
 ```text
-┌──(V1N55X404㉿Abys)-[~/blackbox]
-└─$ ./initialize
+┌──(V1N55X404㉿zero-point)-[~/identity]
+└─$ whoami
 
-[+] Loading identity.................... OK
-[+] Loading security core............... OK
-[+] Loading development core............ OK
-[+] Loading curiosity................... 100%
-[+] Checking ethical protocol........... ENABLED
+V1N55X404
 
-┌──────────────────────────────────────────┐
-│             V1N55X404 CORE               │
-├──────────────────────────────────────────┤
-│                                          │
-│  SECURITY       ACTIVE                   │
-│  DEVELOPMENT    ACTIVE                   │
-│  NETWORK        LEARNING                 │
-│  LINUX          READY                    │
-│  RESEARCH       CONTINUOUS               │
-│                                          │
-└──────────────────────────────────────────┘
+└─$ cat /etc/mission
 
-└─$ mission
+[+] Understand technology.
+[+] Build useful things.
+[+] Explore security.
+[+] Learn from failure.
+[+] Improve continuously.
 
-Understand.
-Build.
-Test.
-Secure.
-Repeat.
+└─$ systemctl status curiosity
+
+● curiosity.service
+   Loaded: enabled
+   Active: running
+   Uptime: forever
+
+└─$ exit
+
+Connection closed.
 ```
 
 </div>
 
 ---
 
-# `BLACKBOX / 12`
+# `12 — PHILOSOPHY`
 
 <div align="center">
 
-## `THE PRINCIPLE`
+## **I'M NOT TRYING TO KNOW EVERYTHING.**
+
+### I'm trying to understand one more thing every day.
 
 <br>
 
-### **I DON'T WANT TO LOOK LIKE I KNOW EVERYTHING.**
+`QUESTION`
 
-### **I WANT TO KEEP LEARNING UNTIL I UNDERSTAND MORE.**
+↓
 
-<br>
+`UNDERSTAND`
 
-```text
-                         QUESTION
-                            │
-                            ▼
-                       UNDERSTAND
-                            │
-                            ▼
-                          BUILD
-                            │
-                            ▼
-                          TEST
-                            │
-                            ▼
-                        ANALYZE
-                            │
-                            ▼
-                         SECURE
-                            │
-                            ▼
-                          LEARN
-                            │
-                            └───────────► REPEAT
-```
+↓
 
-</div>
+`BUILD`
 
----
+↓
 
-# `BLACKBOX / 13`
+`TEST`
 
-<div align="center">
+↓
 
-## `RANDOM TRANSMISSION`
+`SECURE`
 
-<br>
+↓
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+`LEARN`
+
+↓
+
+`REPEAT`
 
 </div>
 
@@ -510,56 +555,20 @@ Repeat.
 
 <div align="center">
 
-# `V1N55X404`
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=350&section=footer&color=0:000000,20:09000E,40:4020FF,58:00FFC8,75:06221C,100:000000&text=V1N55X404&fontSize=65&fontColor=FFFFFF&fontAlignY=43&desc=END%20OF%20TRANSMISSION&descAlignY=62&descSize=15&animation=fadeIn"/>
 
-### `DIGITAL IDENTITY // ONLINE`
+<br>
+
+### `LEARN • BUILD • SECURE • REPEAT`
 
 <br>
 
 <a href="https://github.com/alfin014">
-<img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=00FFC8"/>
-</a>
-
-<a href="https://portofolio-diriku.netlify.app/">
-<img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=firefox&logoColor=00FFC8"/>
-</a>
-
-<a href="https://instagram.com/alfi.nzs">
-<img src="https://img.shields.io/badge/INSTAGRAM-000000?style=for-the-badge&logo=instagram&logoColor=00FFC8"/>
-</a>
-
-<a href="mailto:alfinzafitra@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=00FFC8"/>
+<img src="https://img.shields.io/badge/RETURN_TO_GITHUB-050505?style=for-the-badge&logo=github&logoColor=00FFC8"/>
 </a>
 
 <br><br>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&section=footer&color=0:000000,22:3D22FF,52:00FFC8,78:03110E,100:000000&text=BLACKBOX%20CLOSED&fontSize=38&fontColor=FFFFFF&animation=fadeIn"/>
-
-<br>
-
-```text
-╔══════════════════════════════════════════════════════════════╗
-║                                                              ║
-║                       SESSION CLOSED                         ║
-║                                                              ║
-║                   V1N55X404 / 2026                           ║
-║                                                              ║
-║              LEARN  •  BUILD  •  SECURE                      ║
-║                                                              ║
-║                  [ END OF TRANSMISSION ]                     ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
-```
-
-<br>
-
-<sub>
-
-`// LEARN • BUILD • SECURE • REPEAT //`
-
-© 2026 **V1N55X404**
-
-</sub>
+<sub>© 2026 V1N55X404 · DIGITAL IDENTITY</sub>
 
 </div>
