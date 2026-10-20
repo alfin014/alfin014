@@ -1,105 +1,83 @@
 <div align="center">
 
-<br>
+<a href="https://github.com/alfin014">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:03040A,25:071B2B,55:00E5C3,78:625BFF,100:03040A&height=260&section=header&text=V1N55X404&fontSize=82&fontColor=F4FFFF&fontAlignY=38&desc=BLACKBOX%20%2F%2F%20SECURITY%20%2F%2F%20ENGINEERING&descSize=15&descAlignY=59&animation=fadeIn" alt="V1N55X404 banner"/>
+</a>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=360&section=header&text=V1N55X404&fontSize=96&fontColor=FFFFFF&fontAlignY=42&desc=CYBER%20SECURITY%20%2F%2F%20SYSTEMS%20%2F%2F%20DEVELOPMENT&descAlignY=63&descSize=15&animation=fadeIn&color=0:030507,30:061A18,55:00BFA5,72:17215A,100:030507"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=14&duration=2400&pause=700&color=00E5C3&center=true&vCenter=true&width=760&lines=%3E+BOOTING+BLACKBOX+NODE...;%3E+IDENTITY%3A+V1N55X404;%3E+SECURITY+MINDSET+%2F+DEVELOPER+MODE;%3E+LEARN+THE+SYSTEM.+TEST+THE+SYSTEM.;%3E+BUILD+BETTER.+SECURE+BETTER." alt="Animated terminal status"/>
 
-<br>
+<br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=14&duration=2200&pause=900&color=00E6C3&center=true&vCenter=true&width=850&lines=%3E+INITIALIZING+BLACKBOX...;%3E+IDENTITY+VERIFIED+%2F%2F+V1N55X404;%3E+SECURITY+CORE+ONLINE;%3E+SYSTEMS+CORE+ONLINE;%3E+DEVELOPMENT+CORE+ONLINE;%3E+READY+TO+LEARN.+READY+TO+BUILD."/>
+<img src="https://img.shields.io/badge/STATUS-LEARNING%20%26%20BUILDING-00E5C3?style=for-the-badge&labelColor=080B12" alt="Status"/>
+<img src="https://img.shields.io/badge/MODE-ETHICAL%20SECURITY-8B7CFF?style=for-the-badge&labelColor=080B12" alt="Ethical security"/>
+<img src="https://img.shields.io/badge/BASE-INDONESIA-EAF2FF?style=for-the-badge&labelColor=080B12" alt="Indonesia"/>
 
-<br><br>
+<br/><br/>
 
-<img src="https://img.shields.io/badge/STATUS-ONLINE-00E6C3?style=flat-square&labelColor=080B0D"/>
-<img src="https://img.shields.io/badge/MODE-ETHICAL-8B7CFF?style=flat-square&labelColor=080B0D"/>
-<img src="https://img.shields.io/badge/NODE-INDONESIA-FFFFFF?style=flat-square&labelColor=080B0D"/>
+<a href="https://github.com/alfin014"><img src="https://img.shields.io/badge/GITHUB-Explore%20Repositories-F4FFFF?style=for-the-badge&logo=github&logoColor=white&labelColor=10131D" alt="GitHub"/></a>
+<a href="https://portofolio-diriku.netlify.app/"><img src="https://img.shields.io/badge/PORTFOLIO-Open%20Portfolio-00E5C3?style=for-the-badge&logo=firefox-browser&logoColor=00E5C3&labelColor=10131D" alt="Portfolio"/></a>
+<a href="https://instagram.com/alfi.nzs"><img src="https://img.shields.io/badge/INSTAGRAM-Connect-FF5A9E?style=for-the-badge&logo=instagram&logoColor=FF5A9E&labelColor=10131D" alt="Instagram"/></a>
 
-<br><br>
+<br/><br/>
 
-<a href="https://github.com/alfin014">GitHub</a>
-  •   <a href="https://portofolio-diriku.netlify.app/">Portfolio</a>
-  •   <a href="https://instagram.com/alfi.nzs">Instagram</a>
-  •   <a href="mailto:alfinzafitra@gmail.com">Email</a>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=alfin014&label=PROFILE%20SIGNALS&color=00E6C3&style=flat-square"/>
+<img src="https://komarev.com/ghpvc/?username=alfin014&label=PROFILE%20VISITS&color=00E5C3&style=flat-square&labelColor=080B12" alt="Profile visits"/>
 
 </div>
-
-<br>
 
 ---
 
 <div align="center">
 
-### `01 / IDENTITY`
+### `01 // OPERATOR PROFILE`
 
-# V1N55X404
+# `V1N55X404`
 
 **Cyber Security Enthusiast · Frontend Developer · Technology Explorer**
 
-<br>
+*Curiosity is the entry point. Evidence is the standard.*
 
-> **Understand the system. Build the system. Secure the system.**
+<br/>
 
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=00E6C3"/>
+> **Understand the system. Build with intent. Secure by design.**
 
 </div>
 
-<br>
-
 <table>
 <tr>
-<td width="55%" valign="top">
+<td width="58%" valign="top">
 
-## `PROFILE`
+### `ABOUT.ME`
 
-I'm a Cyber Security enthusiast and Frontend Developer from Indonesia.
+I'm a technology enthusiast from **Indonesia**, interested in understanding how software, networks, and systems work beneath the surface.
 
-I enjoy exploring how technology works beneath the surface, building practical applications, experimenting with systems, and continuously learning about security.
+I enjoy building practical web projects, experimenting with Linux and Termux, and learning cybersecurity through research, controlled testing, and hands-on practice.
 
-My current interests revolve around:
-
-* Cyber Security
-* Web Security
-* Networking
-* Linux & Termux
-* OSINT
-* Frontend Development
-* Backend Development
-* System Exploration
+**Current areas of interest**
+- Application and web security
+- Networking and infrastructure
+- Linux, CLI, and Termux
+- OSINT and reconnaissance concepts
+- Frontend and backend development
+- Secure coding and system analysis
 
 </td>
+<td width="42%" valign="top">
 
-<td width="45%" valign="top">
+### `OPERATOR_CARD`
 
 ```text
-┌─────────────────────────────┐
-│       OPERATOR STATUS        │
-├─────────────────────────────┤
-│                             │
-│ HANDLE                      │
-│ V1N55X404                   │
-│                             │
-│ ROLE                        │
-│ SECURITY / DEVELOPER        │
-│                             │
-│ FOCUS                       │
-│ WEB · NETWORK · SYSTEMS     │
-│                             │
-│ ENVIRONMENT                 │
-│ LINUX · TERMUX              │
-│                             │
-│ LOCATION                    │
-│ INDONESIA                   │
-│                             │
-│ STATUS                      │
-│ ● ACTIVE                    │
-│                             │
-└─────────────────────────────┘
+┌──────────────────────────────┐
+│       BLACKBOX / PROFILE     │
+├──────────────────────────────┤
+│ HANDLE   : V1N55X404         │
+│ ROLE     : LEARNER / BUILDER │
+│ DOMAIN   : SECURITY + WEB    │
+│ SYSTEM   : LINUX / TERMUX    │
+│ BASE     : INDONESIA         │
+│ STATUS   : ACTIVE LEARNING   │
+├──────────────────────────────┤
+│ ETHICS   : AUTHORIZED ONLY   │
+└──────────────────────────────┘
 ```
 
 </td>
@@ -110,230 +88,189 @@ My current interests revolve around:
 
 <div align="center">
 
-# `02 / DOMAINS`
+### `02 // TECHNICAL DOMAINS`
 
-### **WHERE CURIOSITY GOES**
+*Areas I'm exploring, practicing, and building in.*
 
-<br>
+</div>
 
 <table>
 <tr>
-
-<td align="center" width="25%">
+<td width="25%" align="center" valign="top">
 
 ### `01`
+<img src="https://img.shields.io/badge/WEB-10131D?style=for-the-badge&logo=owasp&logoColor=00E5C3" alt="Web security"/>
 
-## WEB
+**WEB SECURITY**
 
-`HTTP / HTTPS`
-
-`OWASP`
-
-`WEB TESTING`
-
-`VULNERABILITY`
+`HTTP / HTTPS`  
+`OWASP concepts`  
+`Web testing`  
+`Secure coding`
 
 </td>
-
-<td align="center" width="25%">
+<td width="25%" align="center" valign="top">
 
 ### `02`
+<img src="https://img.shields.io/badge/NETWORK-10131D?style=for-the-badge&logo=cisco&logoColor=8B7CFF" alt="Networking"/>
 
-## NETWORK
+**NETWORKING**
 
-`TCP / IP`
-
-`PORTS`
-
-`TRAFFIC`
-
-`INFRASTRUCTURE`
+`TCP / IP`  
+`Ports & protocols`  
+`Traffic analysis`  
+`Infrastructure`
 
 </td>
-
-<td align="center" width="25%">
+<td width="25%" align="center" valign="top">
 
 ### `03`
+<img src="https://img.shields.io/badge/SYSTEMS-10131D?style=for-the-badge&logo=linux&logoColor=00E5C3" alt="Systems"/>
 
-## SYSTEM
+**SYSTEMS**
 
-`LINUX`
-
-`KALI`
-
-`TERMUX`
-
-`CLI`
+`Linux`  
+`Kali Linux`  
+`Termux`  
+`Command line`
 
 </td>
-
-<td align="center" width="25%">
+<td width="25%" align="center" valign="top">
 
 ### `04`
+<img src="https://img.shields.io/badge/RECON-10131D?style=for-the-badge&logo=gnuprivacyguard&logoColor=8B7CFF" alt="Reconnaissance"/>
 
-## RECON
+**RESEARCH**
 
-`OSINT`
-
-`ENUMERATION`
-
-`RESEARCH`
-
-`ANALYSIS`
+`OSINT concepts`  
+`Enumeration`  
+`Investigation`  
+`Analysis`
 
 </td>
-
 </tr>
 </table>
 
-</div>
-
----
-
-# `03 / TECHNOLOGY`
-
-<div align="center">
-
-### LANGUAGES
-
-<img src="https://skillicons.dev/icons?i=html,css,js,python,php,bash,mysql&perline=7"/>
-
-<br><br>
-
-### TOOLS & ENVIRONMENT
-
-<img src="https://skillicons.dev/icons?i=linux,git,github,vscode,nodejs,figma&perline=6"/>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/KALI_LINUX-080B0D?style=for-the-badge&logo=kalilinux&logoColor=557C94"/>
-<img src="https://img.shields.io/badge/TERMUX-080B0D?style=for-the-badge&logo=termux&logoColor=00E6C3"/>
-<img src="https://img.shields.io/badge/BURP_SUITE-080B0D?style=for-the-badge&logo=burpsuite&logoColor=FF6633"/>
-<img src="https://img.shields.io/badge/WIRESHARK-080B0D?style=for-the-badge&logo=wireshark&logoColor=1679A7"/>
-<img src="https://img.shields.io/badge/METASPLOIT-080B0D?style=for-the-badge&logo=metasploit&logoColor=2596CD"/>
-
-</div>
-
 ---
 
 <div align="center">
 
-# `04 / ARCHITECTURE`
+### `03 // STACK & TOOLKIT`
 
-### **HOW I LEARN**
+**LANGUAGES & DEVELOPMENT**
 
-```text
-                       ┌───────────────┐
-                       │    QUESTION   │
-                       └───────┬───────┘
-                               │
-                               ▼
-                       ┌───────────────┐
-                       │    RESEARCH   │
-                       └───────┬───────┘
-                               │
-                    ┌──────────┴──────────┐
-                    ▼                     ▼
-             ┌─────────────┐       ┌─────────────┐
-             │    BUILD    │       │     TEST    │
-             └──────┬──────┘       └──────┬──────┘
-                    │                     │
-                    └──────────┬──────────┘
-                               ▼
-                       ┌───────────────┐
-                       │    ANALYZE    │
-                       └───────┬───────┘
-                               │
-                               ▼
-                       ┌───────────────┐
-                       │    SECURE     │
-                       └───────┬───────┘
-                               │
-                               ▼
-                       ┌───────────────┐
-                       │     LEARN     │
-                       └───────┬───────┘
-                               │
-                               └──────────────► REPEAT
+<img src="https://skillicons.dev/icons?i=html,css,js,python,php,bash,mysql&perline=7" alt="HTML CSS JavaScript Python PHP Bash MySQL"/>
+
+<br/><br/>
+
+**ENVIRONMENT & WORKFLOW**
+
+<img src="https://skillicons.dev/icons?i=linux,git,github,vscode,nodejs,figma&perline=6" alt="Linux Git GitHub VS Code Node.js Figma"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/KALI_LINUX-10131D?style=for-the-badge&logo=kalilinux&logoColor=8EA8C8" alt="Kali Linux"/>
+<img src="https://img.shields.io/badge/TERMUX-10131D?style=for-the-badge&logo=termux&logoColor=00E5C3" alt="Termux"/>
+<img src="https://img.shields.io/badge/BURP_SUITE-10131D?style=for-the-badge&logo=burpsuite&logoColor=FF6633" alt="Burp Suite"/>
+<img src="https://img.shields.io/badge/WIRESHARK-10131D?style=for-the-badge&logo=wireshark&logoColor=5AA9E6" alt="Wireshark"/>
+<img src="https://img.shields.io/badge/METASPLOIT-10131D?style=for-the-badge&logo=metasploit&logoColor=5AA9E6" alt="Metasploit"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### `04 // ENGINEERING WORKFLOW`
+
+**A repeatable process beats random guessing.**
+
+```mermaid
+flowchart TD
+    A["01 · QUESTION"] --> B["02 · RESEARCH"]
+    B --> C["03 · PLAN"]
+    C --> D["04 · BUILD / TEST"]
+    D --> E["05 · ANALYZE RESULTS"]
+    E --> F["06 · IMPROVE SECURITY"]
+    F --> G["07 · DOCUMENT & LEARN"]
+    G --> B
+
+    classDef start fill:#10131D,stroke:#00E5C3,color:#F4FFFF,stroke-width:1.5px
+    classDef process fill:#10131D,stroke:#8B7CFF,color:#F4FFFF,stroke-width:1.5px
+    class A start
+    class B,C,D,E,F,G process
 ```
 
 </div>
 
 ---
 
-# `05 / FEATURED PROJECTS`
-
 <div align="center">
 
-### **BUILDING THINGS THAT ACTUALLY DO SOMETHING**
+### `05 // SELECTED PROJECTS`
+
+*Practical builds, not just ideas in a notes app.*
 
 </div>
 
-<br>
-
 <table>
 <tr>
-
 <td width="50%" valign="top">
 
 <div align="center">
 
-`01`
+<img src="https://img.shields.io/badge/PROJECT_01-LIBRARY_SYSTEM-00E5C3?style=for-the-badge&labelColor=10131D" alt="Project 1"/>
 
-# YADIKA LIBRARY
+## YADIKA LIBRARY
 
 **Library Management System**
 
-`PHP` · `MySQL` · `Web`
+<img src="https://skillicons.dev/icons?i=php,mysql,html,css" alt="PHP MySQL HTML CSS"/>
 
 </div>
 
-A practical web application for managing books, members, borrowing, returning, and administration.
+A web-based library system designed to manage book records, members, borrowing, returns, and administration.
 
-<br>
+**Focus**
+- Book and member management
+- Borrowing and return workflow
+- Database-backed application
 
 <div align="center">
 
-<a href="https://github.com/alfin014/perpustakaan-yadika">
-
-<img src="https://img.shields.io/badge/VIEW_PROJECT-00E6C3?style=for-the-badge&labelColor=080B0D&logo=github&logoColor=FFFFFF"/>
-
-</a>
+<a href="https://github.com/alfin014/perpustakaan-yadika"><img src="https://img.shields.io/badge/VIEW_REPOSITORY-Open%20Project-00E5C3?style=for-the-badge&logo=github&logoColor=white&labelColor=10131D" alt="View Yadika Library repository"/></a>
 
 </div>
 
 </td>
-
 <td width="50%" valign="top">
 
 <div align="center">
 
-`02`
+<img src="https://img.shields.io/badge/PROJECT_02-CYBER_LEARNING-8B7CFF?style=for-the-badge&labelColor=10131D" alt="Project 2"/>
 
-# YADIKA CYBER ACADEMY
+## YADIKA CYBER ACADEMY
 
-**Cyber Security Learning Platform**
+**Cybersecurity Learning Platform**
 
-`Security` · `Linux` · `OSINT`
+<img src="https://skillicons.dev/icons?i=linux,python,php,mysql" alt="Linux Python PHP MySQL"/>
 
 </div>
 
-A learning environment focused on cyber security concepts, Linux, networking, OSINT, and practical challenges.
+A learning platform concept focused on cybersecurity fundamentals, Linux, networking, OSINT concepts, and practical challenges.
 
-<br>
+**Focus**
+- Structured learning materials
+- Hands-on challenge concepts
+- Security and system fundamentals
 
 <div align="center">
 
-<a href="https://github.com/alfin014/yadika-cyber-academy">
-
-<img src="https://img.shields.io/badge/VIEW_PROJECT-8B7CFF?style=for-the-badge&labelColor=080B0D&logo=github&logoColor=FFFFFF"/>
-
-</a>
+<a href="https://github.com/alfin014/yadika-cyber-academy"><img src="https://img.shields.io/badge/VIEW_REPOSITORY-Open%20Project-8B7CFF?style=for-the-badge&logo=github&logoColor=white&labelColor=10131D" alt="View Yadika Cyber Academy repository"/></a>
 
 </div>
 
 </td>
-
 </tr>
 </table>
 
@@ -341,52 +278,22 @@ A learning environment focused on cyber security concepts, Linux, networking, OS
 
 <div align="center">
 
-# `06 / CURRENTLY LEARNING`
+### `06 // LEARNING LOG`
 
-<br>
+| DOMAIN | CURRENT DIRECTION |
+|:--|:--|
+| **Web Security** | Understanding common vulnerabilities and safer testing |
+| **Linux / Termux** | Command-line fluency and system workflows |
+| **Frontend** | Responsive interfaces and better user experience |
+| **Networking** | Protocols, ports, and traffic fundamentals |
+| **Python** | Scripting and automation fundamentals |
+| **OSINT** | Research methods and information analysis |
 
-```text
-WEB SECURITY       ████████████████████████░   ACTIVE
-LINUX / TERMUX     ████████████████████████░   ACTIVE
-FRONTEND           █████████████████████████   ACTIVE
-NETWORKING         ██████████████████░░░░░░   BUILDING
-PYTHON             ████████████████░░░░░░░░   BUILDING
-OSINT              ██████████████░░░░░░░░░   EXPLORING
-```
+<br/>
 
-<br>
+`PROGRESS > PERFECTION`
 
-### `THE GOAL IS PROGRESS, NOT PERFECTION.`
-
-</div>
-
----
-
-# `07 / GITHUB TELEMETRY`
-
-<div align="center">
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=alfin014&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=080B0D&title_color=00E6C3&icon_color=8B7CFF&text_color=C9D1D9"/>
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alfin014&layout=compact&langs_count=8&hide_border=true&bg_color=080B0D&title_color=00E6C3&text_color=C9D1D9"/>
-
-<br><br>
-
-<img width="70%" src="https://streak-stats.demolab.com?user=alfin014&hide_border=true&background=080B0D&ring=8B7CFF&fire=00E6C3&currStreakLabel=00E6C3&sideLabels=00E6C3&dates=8B949E"/>
-
-</div>
-
----
-
-# `08 / ACTIVITY`
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=alfin014&bg_color=080B0D&color=00E6C3&line=8B7CFF&point=FFFFFF&area=true&hide_border=true&custom_title=V1N55X404%20%2F%2F%20ACTIVITY"/>
-
-<br><br>
-
-<img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" width="90%"/>
+*Skills grow through practice, documentation, and honest review.*
 
 </div>
 
@@ -394,83 +301,75 @@ OSINT              ██████████████░░░░░░�
 
 <div align="center">
 
-# `09 / TERMINAL`
+### `07 // GITHUB TELEMETRY`
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=alfin014&show_icons=true&hide_border=true&rank_icon=github&bg_color=080B12&title_color=00E5C3&icon_color=8B7CFF&text_color=D7E1EE" alt="GitHub statistics"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alfin014&layout=compact&langs_count=8&hide_border=true&bg_color=080B12&title_color=00E5C3&text_color=D7E1EE" alt="Most used languages"/>
+
+<br/><br/>
+
+<img width="78%" src="https://streak-stats.demolab.com?user=alfin014&hide_border=true&background=080B12&ring=8B7CFF&fire=00E5C3&currStreakLabel=00E5C3&sideLabels=D7E1EE&dates=8A96A8" alt="GitHub contribution streak"/>
+
+<br/><br/>
+
+<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=alfin014&bg_color=080B12&color=00E5C3&line=8B7CFF&point=FFFFFF&area=true&hide_border=true&custom_title=V1N55X404%20%2F%2F%20CONTRIBUTION%20ACTIVITY" alt="GitHub activity graph"/>
+
+</div>
+
+> **Telemetry note:** GitHub statistics and third-party widgets may take time to load, and their availability depends on the external services.
+
+---
+
+<div align="center">
+
+### `08 // TERMINAL SESSION`
 
 ```text
 ┌──(V1N55X404㉿BLACKBOX)-[~/core]
 │
 ├─$ whoami
-│
 │  V1N55X404
 │
-├─$ status
+├─$ inspect --domains
+│  [ONLINE] SECURITY
+│  [ONLINE] SYSTEMS
+│  [ONLINE] DEVELOPMENT
+│  [ACTIVE] RESEARCH
 │
-│  SECURITY       [ ONLINE ]
-│  SYSTEMS        [ ONLINE ]
-│  NETWORK        [ ONLINE ]
-│  DEVELOPMENT    [ ONLINE ]
-│  RESEARCH       [ ACTIVE ]
-│
-├─$ cat philosophy.txt
-│
+├─$ cat principles.txt
 │  Understand before assuming.
-│  Build before claiming.
 │  Test before trusting.
-│  Secure what you understand.
+│  Document what you learn.
+│  Secure what you build.
 │
 ├─$ systemctl status curiosity
-│
 │  ● curiosity.service
 │    Active: running
-│    Uptime: ∞
+│    Restart: always
 │
 └─$ _
 ```
 
-</div>
+<br/>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:00E5C3,50:8B7CFF,100:00E5C3" alt="Neon divider"/>
 
-<div align="center">
+# `LEARN. BUILD. SECURE.`
 
-# `10 / FINAL SIGNAL`
+**One system at a time. One lesson at a time.**
 
-<br>
+<br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=00E6C3"/>
+<a href="https://github.com/alfin014"><img src="https://img.shields.io/badge/GITHUB-10131D?style=for-the-badge&logo=github&logoColor=F4FFFF" alt="GitHub"/></a>
+<a href="https://portofolio-diriku.netlify.app/"><img src="https://img.shields.io/badge/PORTFOLIO-10131D?style=for-the-badge&logo=firefox-browser&logoColor=00E5C3" alt="Portfolio"/></a>
+<a href="https://instagram.com/alfi.nzs"><img src="https://img.shields.io/badge/INSTAGRAM-10131D?style=for-the-badge&logo=instagram&logoColor=FF5A9E" alt="Instagram"/></a>
+<a href="mailto:alfinzafitra@gmail.com"><img src="https://img.shields.io/badge/EMAIL-10131D?style=for-the-badge&logo=gmail&logoColor=F4FFFF" alt="Email"/></a>
 
-<br><br>
+<br/><br/>
 
-## **LEARN. BUILD. SECURE.**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:03040A,25:071B2B,55:00E5C3,78:625BFF,100:03040A&height=150&section=footer" alt="Footer banner"/>
 
-### **ONE SYSTEM AT A TIME.**
-
-<br>
-
-`V1N55X404` · `BLACKBOX NODE` · `INDONESIA`
-
-<br><br>
-
-<a href="https://github.com/alfin014">
-<img src="https://img.shields.io/badge/GITHUB-080B0D?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
-</a>
-
-<a href="https://portofolio-diriku.netlify.app/">
-<img src="https://img.shields.io/badge/PORTFOLIO-080B0D?style=for-the-badge&logo=firefox&logoColor=00E6C3"/>
-</a>
-
-<a href="https://instagram.com/alfi.nzs">
-<img src="https://img.shields.io/badge/INSTAGRAM-080B0D?style=for-the-badge&logo=instagram&logoColor=E1306C"/>
-</a>
-
-<br><br>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&section=footer&text=V1N55X404&fontSize=62&fontColor=FFFFFF&fontAlignY=55&color=0:030507,30:17215A,55:00BFA5,75:061A18,100:030507&animation=fadeIn"/>
-
-<sub>
-
-`BLACKBOX // NODE ACTIVE // 2026`
-
-</sub>
+<sub>`BLACKBOX NODE` · `V1N55X404` · `INDONESIA` · `2026`</sub>
 
 </div>
