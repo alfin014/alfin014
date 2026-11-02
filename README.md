@@ -15,7 +15,7 @@
 <br/><br/>
 
 <a href="https://github.com/alfin014"><img src="https://img.shields.io/badge/GITHUB-Explore%20Repositories-F4FFFF?style=for-the-badge&logo=github&logoColor=white&labelColor=10131D" alt="GitHub"/></a>
-<a href="https://portofolio-diriku.netlify.app/"><img src="https://img.shields.io/badge/PORTFOLIO-Open%20Portfolio-00E5C3?style=for-the-badge&logo=firefox-browser&logoColor=00E5C3&labelColor=10131D" alt="Portfolio"/></a>
+<a href="finzdev.my.id"><img src="https://img.shields.io/badge/PORTFOLIO-Open%20Portfolio-00E5C3?style=for-the-badge&logo=firefox-browser&logoColor=00E5C3&labelColor=10131D" alt="Portfolio"/></a>
 <a href="https://instagram.com/alfi.nzs"><img src="https://img.shields.io/badge/INSTAGRAM-Connect-FF5A9E?style=for-the-badge&logo=instagram&logoColor=FF5A9E&labelColor=10131D" alt="Instagram"/></a>
 
 <br/><br/>
